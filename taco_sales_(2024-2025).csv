@@ -1,0 +1,1001 @@
+﻿Order ID,Restaurant Name,Location,Order,time,Delivery Duration (min),Taco Size,Taco Type,Toppings Count,Distance (km),Price ($),Tip ($),Weekend Order,total 
+770487,El Taco Loco,New York,01-08-2024,14:55,41,Regular,Chicken Taco,5,3.01,9.25,2.22,FALSE,11.47
+671858,El Taco Loco,San Antonio,23-11-2024,17:11,14,Regular,Beef Taco,1,6.2,4.25,3.01,TRUE,7.26
+688508,Taco Haven,Austin,21-11-2024,20:24,38,Large,Pork Taco,2,20.33,7,0.02,FALSE,7.02
+944962,Spicy Taco House,Dallas,21-09-2024,06:43,45,Regular,Chicken Taco,2,3,5.5,1.9,TRUE,7.4
+476417,Casa del Taco,San Antonio,24-07-2024,11:01,15,Large,Pork Taco,0,24.34,4.5,1.14,FALSE,5.64
+678856,Urban Tacos,San Antonio,07-10-2024,21:21,83,Regular,Beef Taco,0,16.7,3,2.32,FALSE,5.32
+183667,Taco Haven,Los Angeles,22-10-2024,06:03,45,Large,Veggie Taco,1,9.57,5.75,0.63,FALSE,6.38
+379946,El Taco Loco,San Antonio,08-05-2025,04:51,31,Regular,Chicken Taco,3,9.8,6.75,2.97,FALSE,9.72
+771088,The Taco Stand,Houston,08-09-2024,21:04,17,Regular,Beef Taco,2,10.33,5.5,0.33,TRUE,5.83
+694731,Casa del Taco,Houston,24-05-2025,02:15,73,Large,Fish Taco,1,6.99,5.75,1.23,TRUE,6.98
+688637,The Taco Stand,Phoenix,30-03-2025,01:28,64,Large,Veggie Taco,1,24.93,5.75,0.69,TRUE,6.44
+617488,El Taco Loco,New York,26-03-2024,04:00,29,Regular,Fish Taco,4,2.06,8,1.14,FALSE,9.14
+590785,The Taco Stand,Phoenix,05-03-2025,16:52,11,Regular,Pork Taco,2,19.33,5.5,1.02,FALSE,6.52
+407757,Taco Time Express,Chicago,18-12-2024,10:01,10,Large,Pork Taco,1,12.94,5.75,0.32,FALSE,6.07
+755674,Urban Tacos,Austin,18-04-2025,00:01,35,Regular,Veggie Taco,1,13.71,4.25,2.34,FALSE,6.59
+656116,Taco Fiesta,San Antonio,08-09-2024,18:42,72,Regular,Beef Taco,2,22.03,5.5,4.16,TRUE,9.66
+422451,Taco Haven,New York,06-07-2024,02:10,82,Regular,Beef Taco,5,12.41,9.25,0.35,TRUE,9.6
+897549,The Taco Stand,Chicago,09-04-2024,17:23,70,Regular,Veggie Taco,4,21.87,8,1.27,FALSE,9.27
+322086,The Taco Stand,Houston,30-08-2024,02:48,61,Large,Fish Taco,4,11.56,9.5,0.74,FALSE,10.24
+167136,Casa del Taco,New York,01-04-2025,22:52,80,Regular,Pork Taco,1,0.68,4.25,2.12,FALSE,6.37
+161733,Taco Haven,Los Angeles,25-01-2024,09:34,52,Regular,Pork Taco,1,7.32,4.25,1.46,FALSE,5.71
+665427,Spicy Taco House,San Antonio,23-03-2025,13:21,70,Regular,Fish Taco,3,5.17,6.75,0.48,TRUE,7.23
+551989,Casa del Taco,Dallas,15-11-2024,07:30,69,Regular,Beef Taco,0,10.36,3,1.02,FALSE,4.02
+214576,Taco Haven,Houston,27-05-2024,17:45,78,Large,Chicken Taco,3,5,8.25,1.39,FALSE,9.64
+179046,Grande Tacos,Austin,17-03-2024,01:09,16,Regular,Beef Taco,1,4.57,4.25,2.43,TRUE,6.68
+324130,Taco Time Express,New York,07-05-2024,21:03,58,Regular,Fish Taco,2,23.2,5.5,2.36,FALSE,7.86
+399105,Taco Time Express,Austin,13-01-2025,00:12,29,Regular,Veggie Taco,1,24.23,4.25,1.74,FALSE,5.99
+668532,Taco Fiesta,San Diego,14-02-2024,09:38,16,Large,Pork Taco,4,4.36,9.5,2.88,FALSE,12.38
+184002,Spicy Taco House,Los Angeles,07-04-2025,04:15,18,Regular,Fish Taco,0,23.57,3,1.71,FALSE,4.71
+707040,La Vida Taco,New York,26-04-2025,02:06,20,Large,Pork Taco,4,13.31,9.5,4.67,TRUE,14.17
+314181,Casa del Taco,Houston,25-07-2024,07:24,60,Regular,Veggie Taco,3,8.25,6.75,2.26,FALSE,9.01
+176066,Taco Fiesta,San Jose,27-04-2025,11:14,82,Regular,Beef Taco,4,5.72,8,1.33,TRUE,9.33
+465962,El Taco Loco,Houston,14-10-2024,00:29,46,Regular,Fish Taco,4,17.74,8,1.84,FALSE,9.84
+946305,The Taco Stand,New York,06-03-2025,18:32,48,Regular,Chicken Taco,2,3.33,5.5,0.32,FALSE,5.82
+680097,Spicy Taco House,Phoenix,06-08-2024,20:19,87,Regular,Veggie Taco,1,17.34,4.25,2.56,FALSE,6.81
+629959,Grande Tacos,Phoenix,09-02-2024,10:57,21,Large,Veggie Taco,0,0.59,4.5,2.31,FALSE,6.81
+768061,Urban Tacos,Chicago,09-12-2024,04:24,80,Large,Pork Taco,0,3.24,4.5,2.84,FALSE,7.34
+824586,Spicy Taco House,Austin,28-01-2024,23:36,57,Regular,Fish Taco,1,1.52,4.25,1.82,TRUE,6.07
+934794,Taco Fiesta,San Diego,12-06-2024,04:06,41,Regular,Veggie Taco,4,22.16,8,1.22,FALSE,9.22
+750810,Spicy Taco House,Houston,06-05-2024,05:15,32,Large,Beef Taco,1,18.55,5.75,1,FALSE,6.75
+531712,Taco Haven,Phoenix,03-05-2024,15:39,23,Large,Beef Taco,3,5.95,8.25,2.45,FALSE,10.7
+582662,Casa del Taco,Phoenix,25-06-2024,18:41,38,Regular,Chicken Taco,3,8.54,6.75,2.59,FALSE,9.34
+910891,Urban Tacos,San Diego,13-05-2025,06:05,75,Large,Pork Taco,2,23.51,7,0.35,FALSE,7.35
+373903,Spicy Taco House,San Antonio,25-07-2024,04:39,14,Regular,Pork Taco,3,8.97,6.75,2.36,FALSE,9.11
+557592,La Vida Taco,Austin,30-03-2024,19:47,59,Regular,Veggie Taco,0,17.87,3,0.01,TRUE,3.01
+945687,The Taco Stand,Houston,09-10-2024,21:34,65,Regular,Veggie Taco,4,8.19,8,2.54,FALSE,10.54
+854717,Urban Tacos,Austin,28-08-2024,05:29,62,Large,Fish Taco,5,7.74,10.75,0.38,FALSE,11.13
+540869,Taco Time Express,Chicago,23-04-2025,02:01,82,Large,Fish Taco,4,20.93,9.5,0.91,FALSE,10.41
+320392,Taco Time Express,San Antonio,16-04-2025,04:59,51,Large,Fish Taco,3,17.05,8.25,1.53,FALSE,9.78
+932291,Spicy Taco House,Los Angeles,08-08-2024,10:09,75,Large,Beef Taco,1,16.98,5.75,0.67,FALSE,6.42
+308802,Spicy Taco House,New York,05-02-2024,21:29,41,Large,Pork Taco,0,11.66,4.5,2.66,FALSE,7.16
+703634,Taco Haven,Dallas,18-01-2025,23:51,61,Regular,Chicken Taco,5,17.35,9.25,4.46,TRUE,13.71
+907451,El Taco Loco,Dallas,18-06-2024,23:29,32,Large,Beef Taco,4,6.61,9.5,2.55,FALSE,12.05
+578634,Spicy Taco House,San Jose,16-02-2025,13:00,81,Large,Fish Taco,4,20.47,9.5,4.46,TRUE,13.96
+547470,The Taco Stand,San Jose,03-05-2024,14:55,70,Large,Veggie Taco,1,21.08,5.75,0.83,FALSE,6.58
+915451,The Taco Stand,San Jose,01-05-2025,19:26,40,Large,Fish Taco,0,17.98,4.5,0.7,FALSE,5.2
+452161,Casa del Taco,Austin,03-03-2024,14:04,27,Regular,Chicken Taco,3,17.5,6.75,3.53,TRUE,10.28
+167348,Taco Time Express,Dallas,14-09-2024,00:04,79,Large,Fish Taco,0,5.57,4.5,2.1,TRUE,6.6
+907189,La Vida Taco,New York,23-03-2025,03:38,58,Large,Beef Taco,2,7.82,7,1.95,TRUE,8.95
+976325,Taco Time Express,Austin,28-02-2025,04:38,87,Regular,Fish Taco,1,7.19,4.25,1.46,FALSE,5.71
+507746,Casa del Taco,Dallas,08-05-2024,04:39,69,Regular,Pork Taco,4,1.16,8,1.18,FALSE,9.18
+691807,Taco Fiesta,Los Angeles,14-05-2025,05:43,64,Regular,Fish Taco,1,1.73,4.25,1.14,FALSE,5.39
+321941,Grande Tacos,San Diego,19-09-2024,03:27,58,Large,Fish Taco,2,20.96,7,1.41,FALSE,8.41
+885408,The Taco Stand,New York,28-09-2024,19:44,38,Regular,Beef Taco,0,23.77,3,1,TRUE,4
+121369,La Vida Taco,Chicago,04-07-2024,06:48,26,Large,Beef Taco,4,23.72,9.5,1.4,FALSE,10.9
+368690,Casa del Taco,Chicago,15-04-2025,14:39,87,Regular,Chicken Taco,2,3.15,5.5,0.08,FALSE,5.58
+427110,La Vida Taco,Dallas,04-11-2024,02:10,35,Regular,Pork Taco,5,20.85,9.25,0.73,FALSE,9.98
+831059,Urban Tacos,San Antonio,04-04-2024,00:37,82,Regular,Veggie Taco,4,11,8,1.11,FALSE,9.11
+630538,Casa del Taco,New York,22-11-2024,06:27,72,Regular,Fish Taco,2,16.07,5.5,2.49,FALSE,7.99
+841666,Spicy Taco House,Dallas,16-05-2024,19:25,76,Large,Pork Taco,4,19.48,9.5,1.39,FALSE,10.89
+965845,La Vida Taco,Phoenix,07-09-2024,08:11,41,Regular,Veggie Taco,3,6.47,6.75,2.32,TRUE,9.07
+739979,Taco Time Express,San Diego,23-01-2024,07:00,73,Large,Chicken Taco,3,5.7,8.25,2.39,FALSE,10.64
+456871,Urban Tacos,San Antonio,02-08-2024,14:01,81,Regular,Pork Taco,1,2.6,4.25,2.16,FALSE,6.41
+612311,The Taco Stand,Houston,04-01-2025,19:01,72,Large,Beef Taco,0,7.71,4.5,2.02,TRUE,6.52
+355123,Urban Tacos,San Antonio,13-10-2024,15:02,70,Large,Fish Taco,5,13.98,10.75,1.76,TRUE,12.51
+575786,Urban Tacos,Phoenix,14-07-2024,06:30,39,Regular,Chicken Taco,2,3.43,5.5,2.68,TRUE,8.18
+899213,Spicy Taco House,Houston,17-06-2024,01:42,71,Large,Pork Taco,4,15.12,9.5,2.94,FALSE,12.44
+973074,Taco Haven,Phoenix,25-06-2024,16:35,56,Regular,Veggie Taco,0,17.85,3,0.38,FALSE,3.38
+147726,Taco Fiesta,Austin,14-08-2024,21:49,26,Large,Beef Taco,0,14.56,4.5,1.41,FALSE,5.91
+561865,Casa del Taco,Chicago,09-02-2024,21:43,42,Large,Beef Taco,0,10.32,4.5,0.22,FALSE,4.72
+760021,Taco Fiesta,Chicago,25-04-2024,21:14,82,Large,Beef Taco,1,3.4,5.75,2.29,FALSE,8.04
+735770,La Vida Taco,San Antonio,24-06-2024,07:06,76,Large,Fish Taco,3,7.79,8.25,1.77,FALSE,10.02
+549660,Urban Tacos,San Antonio,27-04-2025,08:47,17,Regular,Chicken Taco,5,5.67,9.25,3.3,TRUE,12.55
+264686,Taco Haven,Chicago,04-03-2025,17:52,19,Regular,Beef Taco,3,11.54,6.75,1.78,FALSE,8.53
+405407,Taco Fiesta,Houston,11-08-2024,18:39,46,Large,Beef Taco,5,6.22,10.75,1.32,TRUE,12.07
+929683,La Vida Taco,Houston,26-11-2024,05:09,24,Regular,Chicken Taco,2,20.75,5.5,0.21,FALSE,5.71
+273982,Urban Tacos,San Antonio,18-03-2025,02:47,46,Large,Beef Taco,3,17.37,8.25,2.1,FALSE,10.35
+385470,The Taco Stand,Austin,18-01-2025,13:00,66,Regular,Pork Taco,0,22.29,3,3.67,TRUE,6.67
+733039,Urban Tacos,New York,11-03-2024,22:27,39,Regular,Veggie Taco,4,1.49,8,2.27,FALSE,10.27
+593355,The Taco Stand,San Jose,04-08-2024,01:12,33,Large,Fish Taco,0,12.02,4.5,2.04,TRUE,6.54
+436653,El Taco Loco,Chicago,13-09-2024,03:59,62,Large,Veggie Taco,5,23.66,10.75,2.44,FALSE,13.19
+676818,Taco Fiesta,San Jose,09-03-2024,09:33,50,Large,Veggie Taco,0,24.27,4.5,2.02,TRUE,6.52
+639593,Taco Fiesta,Austin,24-12-2024,19:51,62,Regular,Chicken Taco,4,9.36,8,2.27,FALSE,10.27
+755788,Grande Tacos,New York,07-06-2024,02:36,44,Regular,Veggie Taco,3,22.08,6.75,1.45,FALSE,8.2
+130271,La Vida Taco,Houston,03-05-2024,00:22,49,Regular,Pork Taco,3,2.78,6.75,2.98,FALSE,9.73
+218972,Grande Tacos,Los Angeles,18-05-2025,02:11,29,Large,Veggie Taco,4,17.78,9.5,2.08,TRUE,11.58
+605937,Grande Tacos,Houston,20-12-2024,19:07,80,Regular,Fish Taco,1,23.09,4.25,1.52,FALSE,5.77
+243139,El Taco Loco,Phoenix,18-11-2024,07:05,53,Large,Beef Taco,2,18.29,7,2.51,FALSE,9.51
+708093,Grande Tacos,Chicago,12-12-2024,20:14,78,Large,Veggie Taco,2,14.02,7,1.63,FALSE,8.63
+577463,Casa del Taco,Houston,04-07-2024,11:39,83,Large,Chicken Taco,3,1.57,8.25,2.23,FALSE,10.48
+839485,Taco Time Express,Dallas,21-05-2025,10:30,29,Large,Beef Taco,1,12.81,5.75,1.77,FALSE,7.52
+205239,Grande Tacos,Los Angeles,12-02-2025,12:26,68,Regular,Chicken Taco,3,21.84,6.75,2.91,FALSE,9.66
+178463,Grande Tacos,Phoenix,19-09-2024,23:14,89,Large,Beef Taco,2,21.38,7,2.58,FALSE,9.58
+498468,Casa del Taco,San Jose,24-02-2025,05:16,14,Regular,Chicken Taco,5,17.27,9.25,0.86,FALSE,10.11
+338536,El Taco Loco,Dallas,17-03-2024,11:06,22,Large,Chicken Taco,5,7.84,10.75,0.14,TRUE,10.89
+440131,Taco Fiesta,Phoenix,05-10-2024,10:14,57,Large,Chicken Taco,1,13.51,5.75,2.83,TRUE,8.58
+931016,Spicy Taco House,Chicago,15-05-2024,23:31,20,Large,Pork Taco,5,6.4,10.75,2.74,FALSE,13.49
+250069,Taco Haven,San Jose,10-05-2025,11:24,42,Large,Veggie Taco,5,0.73,10.75,4.02,TRUE,14.77
+401603,The Taco Stand,Chicago,27-02-2024,08:53,66,Large,Pork Taco,2,16.15,7,1.27,FALSE,8.27
+362246,Grande Tacos,Phoenix,03-06-2024,17:40,59,Large,Beef Taco,1,9.84,5.75,1.08,FALSE,6.83
+410244,Urban Tacos,New York,03-11-2024,10:21,45,Regular,Pork Taco,5,19.57,9.25,4.87,TRUE,14.12
+735863,Grande Tacos,Phoenix,27-06-2024,17:43,87,Large,Chicken Taco,5,5.16,10.75,0.75,FALSE,11.5
+892280,Spicy Taco House,Los Angeles,02-05-2025,08:40,15,Large,Fish Taco,0,14.7,4.5,2.2,FALSE,6.7
+194511,Urban Tacos,San Diego,18-11-2024,17:32,32,Regular,Chicken Taco,4,21.97,8,1.1,FALSE,9.1
+626169,Urban Tacos,Chicago,18-07-2024,14:16,71,Large,Veggie Taco,0,11.97,4.5,0.23,FALSE,4.73
+890785,Taco Haven,Dallas,08-03-2025,21:03,56,Regular,Fish Taco,0,6.98,3,0.62,TRUE,3.62
+486490,Urban Tacos,San Antonio,22-10-2024,22:49,57,Regular,Chicken Taco,3,1.11,6.75,2.65,FALSE,9.4
+688678,Casa del Taco,San Antonio,20-06-2024,22:35,18,Large,Veggie Taco,5,10.5,10.75,0.42,FALSE,11.17
+139019,Urban Tacos,San Jose,31-03-2024,04:38,22,Regular,Pork Taco,1,10.02,4.25,1.86,TRUE,6.11
+879238,The Taco Stand,Dallas,01-04-2025,04:49,29,Large,Beef Taco,3,15.58,8.25,2.82,FALSE,11.07
+393328,Taco Fiesta,San Diego,17-06-2024,18:12,66,Large,Chicken Taco,2,2.93,7,2.06,FALSE,9.06
+670913,Casa del Taco,New York,05-11-2024,05:51,45,Regular,Beef Taco,3,2.75,6.75,0.64,FALSE,7.39
+770556,La Vida Taco,New York,09-02-2024,06:51,52,Regular,Chicken Taco,4,5.53,8,2.49,FALSE,10.49
+681128,Taco Haven,San Antonio,16-06-2024,17:37,39,Large,Chicken Taco,4,0.57,9.5,4.29,TRUE,13.79
+251716,Spicy Taco House,Austin,13-07-2024,16:31,32,Regular,Beef Taco,1,0.86,4.25,3.95,TRUE,8.2
+349489,La Vida Taco,San Diego,13-01-2024,06:10,32,Large,Beef Taco,1,18.67,5.75,2.63,TRUE,8.38
+881886,El Taco Loco,San Jose,14-12-2024,04:27,56,Regular,Fish Taco,4,5.93,8,3.08,TRUE,11.08
+862569,The Taco Stand,Phoenix,21-12-2024,18:31,13,Regular,Fish Taco,3,10.94,6.75,0.54,TRUE,7.29
+847006,Grande Tacos,Los Angeles,03-03-2024,18:02,51,Regular,Beef Taco,1,7.24,4.25,3.17,TRUE,7.42
+674993,Casa del Taco,Dallas,09-04-2025,00:11,77,Large,Fish Taco,4,15.33,9.5,0.3,FALSE,9.8
+835869,El Taco Loco,Austin,16-06-2024,00:19,65,Large,Chicken Taco,3,8.8,8.25,2.27,TRUE,10.52
+536196,El Taco Loco,San Diego,27-11-2024,11:27,50,Large,Veggie Taco,1,17.33,5.75,1.42,FALSE,7.17
+195656,El Taco Loco,Los Angeles,01-12-2024,10:45,22,Large,Chicken Taco,4,1.97,9.5,4.78,TRUE,14.28
+688967,Casa del Taco,Los Angeles,15-11-2024,02:01,55,Large,Beef Taco,2,15.21,7,1.05,FALSE,8.05
+705991,The Taco Stand,Houston,30-04-2024,04:22,71,Regular,Beef Taco,2,21.21,5.5,1.1,FALSE,6.6
+899649,Urban Tacos,San Antonio,24-06-2024,15:54,64,Regular,Pork Taco,5,20.82,9.25,0.8,FALSE,10.05
+289179,Urban Tacos,Phoenix,20-09-2024,22:47,54,Regular,Chicken Taco,1,14.37,4.25,1.2,FALSE,5.45
+248766,Taco Fiesta,Los Angeles,16-02-2025,00:54,37,Large,Fish Taco,3,8.85,8.25,1.85,TRUE,10.1
+856648,Casa del Taco,San Antonio,08-04-2025,02:25,20,Regular,Chicken Taco,1,18.98,4.25,0.15,FALSE,4.4
+185544,Urban Tacos,San Jose,25-11-2024,08:12,72,Large,Fish Taco,2,5.78,7,1.54,FALSE,8.54
+461939,Taco Time Express,Los Angeles,08-08-2024,00:05,85,Large,Pork Taco,5,8.06,10.75,0.66,FALSE,11.41
+728437,Taco Fiesta,New York,07-06-2024,18:43,48,Regular,Chicken Taco,2,7.59,5.5,0.36,FALSE,5.86
+621546,Taco Time Express,Chicago,10-04-2024,08:11,58,Regular,Pork Taco,4,20.92,8,2.42,FALSE,10.42
+175576,Taco Time Express,New York,04-12-2024,19:43,12,Large,Beef Taco,2,14.61,7,1.72,FALSE,8.72
+843963,Taco Time Express,Phoenix,30-03-2024,10:59,61,Regular,Veggie Taco,1,20.13,4.25,3.09,TRUE,7.34
+972442,Casa del Taco,Los Angeles,05-12-2024,04:53,23,Regular,Fish Taco,4,10.31,8,0.24,FALSE,8.24
+425346,Casa del Taco,Houston,15-09-2024,16:50,31,Regular,Pork Taco,5,3.29,9.25,2.55,TRUE,11.8
+913934,Casa del Taco,San Diego,16-05-2025,07:55,28,Regular,Beef Taco,1,6.77,4.25,0.52,FALSE,4.77
+260295,El Taco Loco,Chicago,02-05-2025,17:48,73,Large,Pork Taco,4,11.5,9.5,2.77,FALSE,12.27
+691912,La Vida Taco,San Diego,02-05-2025,04:10,50,Regular,Fish Taco,0,11.99,3,1.89,FALSE,4.89
+935012,Urban Tacos,San Antonio,13-02-2024,15:07,55,Regular,Veggie Taco,3,11.57,6.75,0.17,FALSE,6.92
+972097,Urban Tacos,Los Angeles,15-05-2025,17:27,21,Large,Fish Taco,4,14.08,9.5,2.38,FALSE,11.88
+143015,Grande Tacos,San Antonio,21-05-2025,07:07,34,Large,Pork Taco,3,12.78,8.25,2.87,FALSE,11.12
+572407,El Taco Loco,San Diego,06-03-2024,12:00,74,Regular,Beef Taco,1,17.84,4.25,2.97,FALSE,7.22
+649525,The Taco Stand,San Antonio,03-05-2024,07:14,56,Large,Veggie Taco,3,10.51,8.25,1.02,FALSE,9.27
+726928,Taco Fiesta,San Diego,21-02-2024,04:41,52,Regular,Pork Taco,5,9.97,9.25,0.76,FALSE,10.01
+992931,La Vida Taco,Chicago,15-09-2024,22:19,20,Regular,Veggie Taco,2,24.21,5.5,3.49,TRUE,8.99
+510997,Spicy Taco House,San Antonio,06-03-2024,19:16,49,Large,Veggie Taco,1,16.92,5.75,2.49,FALSE,8.24
+874661,The Taco Stand,Los Angeles,16-05-2025,18:46,64,Large,Beef Taco,2,8.07,7,2.85,FALSE,9.85
+458332,Grande Tacos,Houston,24-06-2024,23:04,27,Regular,Beef Taco,2,21.19,5.5,0.3,FALSE,5.8
+908320,The Taco Stand,Austin,30-01-2024,07:39,53,Regular,Pork Taco,3,4.28,6.75,0.54,FALSE,7.29
+826501,La Vida Taco,Chicago,05-12-2024,22:49,15,Large,Veggie Taco,5,18.13,10.75,2.91,FALSE,13.66
+740255,Urban Tacos,San Jose,30-06-2024,18:07,78,Regular,Veggie Taco,3,22.65,6.75,0.97,TRUE,7.72
+811256,La Vida Taco,San Jose,24-12-2024,14:20,46,Large,Pork Taco,4,10.76,9.5,0.49,FALSE,9.99
+309398,La Vida Taco,Chicago,13-07-2024,04:23,16,Large,Veggie Taco,4,23.39,9.5,3.56,TRUE,13.06
+640970,El Taco Loco,Phoenix,06-03-2024,03:32,30,Large,Fish Taco,4,4.11,9.5,1.31,FALSE,10.81
+332823,Grande Tacos,San Diego,21-01-2024,17:10,63,Regular,Fish Taco,4,9.66,8,1.93,TRUE,9.93
+185569,Casa del Taco,Houston,22-01-2024,21:27,50,Regular,Veggie Taco,1,3.87,4.25,0.86,FALSE,5.11
+970068,Grande Tacos,Chicago,30-12-2024,08:50,67,Regular,Beef Taco,0,6.77,3,2.5,FALSE,5.5
+675462,La Vida Taco,Austin,24-11-2024,18:02,24,Large,Chicken Taco,2,3.49,7,1.19,TRUE,8.19
+769989,La Vida Taco,San Jose,18-02-2024,18:48,24,Large,Pork Taco,4,0.9,9.5,2.58,TRUE,12.08
+353690,Spicy Taco House,Phoenix,29-11-2024,09:35,10,Large,Chicken Taco,4,10.71,9.5,1.99,FALSE,11.49
+189772,The Taco Stand,San Diego,22-02-2024,13:38,77,Regular,Fish Taco,3,1.57,6.75,1.16,FALSE,7.91
+491435,Urban Tacos,New York,04-10-2024,08:42,18,Large,Chicken Taco,5,16.6,10.75,0.31,FALSE,11.06
+710169,Casa del Taco,Chicago,04-02-2024,10:28,55,Large,Chicken Taco,5,11.88,10.75,3.48,TRUE,14.23
+762423,Spicy Taco House,Chicago,19-02-2024,00:16,68,Regular,Veggie Taco,1,1.57,4.25,0.6,FALSE,4.85
+143941,Casa del Taco,Phoenix,04-02-2025,07:26,60,Large,Veggie Taco,0,18.96,4.5,0.57,FALSE,5.07
+474314,Taco Fiesta,San Diego,31-07-2024,05:07,25,Large,Fish Taco,3,18.71,8.25,2.68,FALSE,10.93
+505426,Casa del Taco,Chicago,20-01-2025,09:53,73,Large,Pork Taco,2,20.13,7,2.18,FALSE,9.18
+182760,Taco Time Express,San Antonio,20-05-2024,03:57,79,Large,Veggie Taco,0,2.46,4.5,1.98,FALSE,6.48
+421384,Grande Tacos,San Antonio,26-11-2024,23:22,31,Large,Veggie Taco,3,1.54,8.25,2.61,FALSE,10.86
+469685,La Vida Taco,Dallas,01-08-2024,06:04,17,Regular,Fish Taco,2,13.07,5.5,2.25,FALSE,7.75
+267758,Taco Fiesta,Chicago,16-04-2025,21:58,66,Regular,Chicken Taco,0,6.28,3,1.94,FALSE,4.94
+479742,Taco Time Express,San Antonio,26-01-2024,03:42,87,Regular,Fish Taco,2,9.61,5.5,2.29,FALSE,7.79
+701800,Spicy Taco House,Austin,12-10-2024,00:26,60,Large,Veggie Taco,1,24.03,5.75,0.13,TRUE,5.88
+295085,Grande Tacos,Austin,27-10-2024,13:58,81,Regular,Veggie Taco,2,17.75,5.5,1.07,TRUE,6.57
+741599,Urban Tacos,San Jose,04-06-2024,11:35,25,Regular,Beef Taco,3,4.73,6.75,2.14,FALSE,8.89
+192055,Casa del Taco,San Diego,20-02-2024,10:33,80,Large,Veggie Taco,1,17.94,5.75,2.78,FALSE,8.53
+768676,Spicy Taco House,San Diego,30-01-2025,03:53,38,Regular,Chicken Taco,1,6.3,4.25,1.48,FALSE,5.73
+478427,The Taco Stand,San Antonio,13-10-2024,13:00,69,Regular,Pork Taco,0,2.11,3,1.99,TRUE,4.99
+851759,Grande Tacos,Austin,15-11-2024,01:46,62,Regular,Chicken Taco,2,16.24,5.5,1.35,FALSE,6.85
+813145,The Taco Stand,San Diego,09-04-2024,16:19,80,Regular,Chicken Taco,3,12.82,6.75,2.6,FALSE,9.35
+971776,El Taco Loco,Austin,28-04-2024,20:24,48,Regular,Chicken Taco,2,23.4,5.5,1.13,TRUE,6.63
+644103,Urban Tacos,Los Angeles,13-07-2024,15:37,35,Large,Chicken Taco,5,7.92,10.75,2.67,TRUE,13.42
+626986,Spicy Taco House,San Antonio,27-03-2025,00:02,29,Regular,Pork Taco,5,22.6,9.25,1.01,FALSE,10.26
+690996,Taco Fiesta,New York,04-03-2024,02:06,15,Large,Chicken Taco,4,10.71,9.5,1.92,FALSE,11.42
+622230,The Taco Stand,Phoenix,13-05-2025,14:01,48,Large,Chicken Taco,5,10.45,10.75,1.36,FALSE,12.11
+822063,Taco Fiesta,Chicago,07-12-2024,10:50,63,Large,Fish Taco,1,8.83,5.75,0.72,TRUE,6.47
+853258,Casa del Taco,San Diego,05-11-2024,16:36,26,Large,Pork Taco,4,3.1,9.5,0.73,FALSE,10.23
+228473,Urban Tacos,San Jose,11-07-2024,13:32,28,Regular,Beef Taco,2,23.66,5.5,2.59,FALSE,8.09
+538446,Taco Haven,Chicago,11-09-2024,07:50,83,Large,Chicken Taco,1,12.71,5.75,1.54,FALSE,7.29
+622987,Urban Tacos,San Jose,19-01-2024,00:02,21,Large,Pork Taco,3,24.18,8.25,0.65,FALSE,8.9
+470037,Taco Fiesta,New York,06-08-2024,12:51,73,Large,Veggie Taco,4,0.7,9.5,0.32,FALSE,9.82
+240440,Urban Tacos,San Diego,09-11-2024,05:12,56,Regular,Fish Taco,0,14.47,3,0.97,TRUE,3.97
+680096,Urban Tacos,Los Angeles,27-10-2024,02:03,74,Large,Pork Taco,2,20.72,7,3.12,TRUE,10.12
+740725,El Taco Loco,Chicago,16-03-2024,02:16,60,Large,Veggie Taco,4,23.5,9.5,3.77,TRUE,13.27
+308727,La Vida Taco,Austin,07-11-2024,18:23,74,Regular,Beef Taco,0,3.86,3,1,FALSE,4
+596756,The Taco Stand,San Jose,25-04-2024,16:27,87,Regular,Veggie Taco,4,8.3,8,1.18,FALSE,9.18
+746447,Urban Tacos,San Antonio,18-09-2024,06:27,74,Large,Pork Taco,2,12.13,7,0.05,FALSE,7.05
+447329,El Taco Loco,Dallas,29-03-2025,08:59,49,Regular,Pork Taco,3,7.01,6.75,3.28,TRUE,10.03
+913864,La Vida Taco,San Antonio,25-06-2024,17:42,16,Large,Chicken Taco,4,15.91,9.5,1.86,FALSE,11.36
+982027,Taco Time Express,Chicago,07-07-2024,02:52,14,Regular,Chicken Taco,0,11.31,3,2.09,TRUE,5.09
+533020,Taco Haven,Dallas,24-01-2025,18:35,88,Large,Beef Taco,5,3.88,10.75,0.62,FALSE,11.37
+440839,Grande Tacos,Austin,19-10-2024,16:31,50,Regular,Fish Taco,4,8.89,8,1.77,TRUE,9.77
+909489,Urban Tacos,San Antonio,11-01-2025,01:46,34,Regular,Veggie Taco,4,7.81,8,4.71,TRUE,12.71
+412071,Urban Tacos,Houston,14-01-2025,19:40,50,Large,Veggie Taco,4,23.38,9.5,2.39,FALSE,11.89
+386741,Urban Tacos,Los Angeles,21-03-2025,10:22,79,Large,Fish Taco,2,23.89,7,2.41,FALSE,9.41
+404561,Taco Fiesta,Phoenix,02-03-2024,09:12,54,Large,Veggie Taco,5,12.24,10.75,1.01,TRUE,11.76
+664739,Urban Tacos,Austin,29-07-2024,23:23,27,Regular,Pork Taco,5,14.88,9.25,0.73,FALSE,9.98
+802371,The Taco Stand,Houston,10-05-2025,12:08,39,Regular,Beef Taco,3,8.59,6.75,2.36,TRUE,9.11
+814281,Spicy Taco House,New York,03-03-2025,11:18,30,Large,Fish Taco,3,16.44,8.25,2.27,FALSE,10.52
+401198,Casa del Taco,Phoenix,16-05-2025,16:24,17,Regular,Pork Taco,1,13.61,4.25,2.17,FALSE,6.42
+139110,Spicy Taco House,Dallas,16-05-2024,12:56,14,Large,Fish Taco,1,23.45,5.75,2.89,FALSE,8.64
+403528,Taco Fiesta,New York,19-08-2024,18:26,82,Regular,Veggie Taco,2,11.63,5.5,1.92,FALSE,7.42
+649787,Grande Tacos,Chicago,26-01-2025,15:12,69,Large,Chicken Taco,0,8.6,4.5,3.66,TRUE,8.16
+779776,Urban Tacos,Chicago,11-01-2024,22:32,53,Large,Pork Taco,5,19.05,10.75,0.53,FALSE,11.28
+997734,Taco Time Express,Dallas,04-02-2025,05:31,51,Regular,Fish Taco,5,2.84,9.25,2.95,FALSE,12.2
+600646,Casa del Taco,Houston,06-01-2024,07:19,43,Large,Chicken Taco,3,18.97,8.25,4.77,TRUE,13.02
+416613,La Vida Taco,San Antonio,09-01-2024,21:10,43,Large,Chicken Taco,0,16.86,4.5,1.4,FALSE,5.9
+267475,Taco Time Express,Austin,29-08-2024,13:02,25,Large,Veggie Taco,4,5.91,9.5,2.87,FALSE,12.37
+601410,Spicy Taco House,San Jose,15-04-2025,11:47,57,Large,Pork Taco,3,19.06,8.25,2.41,FALSE,10.66
+965708,Taco Haven,Houston,07-04-2025,18:47,20,Large,Pork Taco,5,9.36,10.75,2.75,FALSE,13.5
+217659,Taco Fiesta,Austin,27-01-2025,14:57,35,Regular,Chicken Taco,2,21.43,5.5,1.33,FALSE,6.83
+813341,Taco Haven,San Antonio,14-01-2025,16:24,21,Large,Beef Taco,3,3.73,8.25,1.25,FALSE,9.5
+691303,Taco Fiesta,Austin,25-12-2024,03:21,49,Regular,Fish Taco,2,20.5,5.5,2.24,FALSE,7.74
+706403,El Taco Loco,New York,25-11-2024,02:17,54,Regular,Pork Taco,0,23.4,3,0.21,FALSE,3.21
+595002,Taco Fiesta,Phoenix,13-11-2024,13:49,33,Regular,Fish Taco,2,24.82,5.5,1.15,FALSE,6.65
+495833,Taco Time Express,Los Angeles,22-02-2025,21:17,27,Large,Beef Taco,1,24.82,5.75,1.97,TRUE,7.72
+233533,Taco Haven,New York,18-01-2024,15:49,48,Large,Pork Taco,3,13.53,8.25,2.47,FALSE,10.72
+359535,Grande Tacos,San Diego,30-04-2024,11:40,45,Regular,Beef Taco,0,20.33,3,1.26,FALSE,4.26
+903265,Taco Fiesta,Houston,09-06-2024,01:38,18,Regular,Pork Taco,0,11.44,3,3.36,TRUE,6.36
+151040,Taco Haven,New York,08-11-2024,10:46,66,Regular,Pork Taco,1,18.98,4.25,2.33,FALSE,6.58
+246942,The Taco Stand,Phoenix,30-06-2024,21:05,83,Large,Pork Taco,4,19.43,9.5,4.09,TRUE,13.59
+348411,Urban Tacos,Chicago,08-02-2025,20:49,38,Large,Veggie Taco,2,1.99,7,4.74,TRUE,11.74
+870925,Spicy Taco House,Dallas,07-03-2025,17:48,73,Regular,Veggie Taco,5,16.95,9.25,2.36,FALSE,11.61
+434217,Taco Time Express,Dallas,25-04-2024,21:37,48,Large,Chicken Taco,4,12.1,9.5,2.55,FALSE,12.05
+415344,Spicy Taco House,San Jose,14-02-2024,18:11,81,Large,Fish Taco,4,13.48,9.5,1.17,FALSE,10.67
+367382,Taco Haven,San Diego,17-05-2025,07:28,20,Large,Veggie Taco,0,13.62,4.5,4.15,TRUE,8.65
+154040,Urban Tacos,Dallas,14-04-2025,21:26,87,Regular,Beef Taco,1,20.21,4.25,1.76,FALSE,6.01
+804066,The Taco Stand,Houston,07-01-2025,08:33,36,Large,Veggie Taco,0,5.69,4.5,0.57,FALSE,5.07
+877493,El Taco Loco,San Jose,07-07-2024,10:15,87,Regular,Fish Taco,1,14.03,4.25,3.88,TRUE,8.13
+499152,Grande Tacos,Austin,18-05-2025,21:02,55,Large,Veggie Taco,2,13.06,7,2.49,TRUE,9.49
+203398,Grande Tacos,San Diego,06-06-2024,18:34,57,Large,Fish Taco,0,14.28,4.5,0.66,FALSE,5.16
+253011,Taco Fiesta,Phoenix,05-03-2025,18:28,84,Large,Veggie Taco,1,5.31,5.75,0.69,FALSE,6.44
+697467,Taco Haven,San Jose,03-03-2025,16:43,53,Large,Fish Taco,5,16.22,10.75,1.47,FALSE,12.22
+276405,Casa del Taco,Chicago,18-04-2024,17:00,79,Large,Chicken Taco,4,24.76,9.5,2.87,FALSE,12.37
+649395,Taco Fiesta,Los Angeles,07-02-2024,16:22,10,Large,Chicken Taco,5,6.17,10.75,2.12,FALSE,12.87
+109585,Taco Haven,Austin,20-12-2024,04:38,57,Regular,Pork Taco,5,16.84,9.25,1.85,FALSE,11.1
+606676,Grande Tacos,New York,06-01-2024,03:15,78,Large,Beef Taco,0,13.47,4.5,1.37,TRUE,5.87
+400614,Taco Fiesta,Austin,30-11-2024,10:27,32,Regular,Beef Taco,4,4.15,8,0.96,TRUE,8.96
+652029,Urban Tacos,San Diego,26-07-2024,15:17,60,Regular,Veggie Taco,3,11.75,6.75,0.73,FALSE,7.48
+831105,Taco Haven,Phoenix,03-03-2024,14:48,14,Regular,Fish Taco,3,9.74,6.75,2.38,TRUE,9.13
+767678,Taco Fiesta,Chicago,05-03-2024,05:22,73,Large,Veggie Taco,4,24.44,9.5,2.92,FALSE,12.42
+653815,Taco Fiesta,Houston,13-06-2024,05:05,82,Large,Veggie Taco,0,23.14,4.5,2.05,FALSE,6.55
+393992,The Taco Stand,San Antonio,26-01-2024,13:20,32,Large,Beef Taco,1,14.88,5.75,2.26,FALSE,8.01
+847332,Taco Time Express,Los Angeles,20-08-2024,10:55,30,Regular,Pork Taco,3,17.09,6.75,1.62,FALSE,8.37
+502491,Spicy Taco House,Los Angeles,23-01-2025,23:27,54,Regular,Beef Taco,3,6.19,6.75,0.23,FALSE,6.98
+734565,La Vida Taco,San Antonio,04-11-2024,03:04,51,Regular,Veggie Taco,3,12.52,6.75,1.07,FALSE,7.82
+493663,Taco Time Express,Chicago,31-03-2025,01:30,58,Regular,Pork Taco,2,20.05,5.5,2.14,FALSE,7.64
+186023,Urban Tacos,Chicago,22-10-2024,03:42,29,Large,Veggie Taco,2,3.11,7,0.02,FALSE,7.02
+423241,Grande Tacos,San Diego,28-07-2024,12:48,23,Regular,Beef Taco,1,11.06,4.25,2.78,TRUE,7.03
+637333,Taco Time Express,Los Angeles,21-01-2024,09:33,21,Large,Pork Taco,0,15.12,4.5,3.92,TRUE,8.42
+503951,Taco Fiesta,Phoenix,17-11-2024,09:58,59,Regular,Pork Taco,1,14.51,4.25,0.85,TRUE,5.1
+499226,Spicy Taco House,Chicago,27-07-2024,21:00,48,Large,Fish Taco,1,2.05,5.75,2.17,TRUE,7.92
+541557,Urban Tacos,San Jose,29-02-2024,17:55,56,Large,Chicken Taco,5,15.81,10.75,1.78,FALSE,12.53
+305047,Grande Tacos,Los Angeles,15-04-2024,05:42,48,Regular,Fish Taco,2,21.12,5.5,1.14,FALSE,6.64
+445549,Grande Tacos,San Diego,30-11-2024,11:16,86,Regular,Veggie Taco,2,15.28,5.5,3.48,TRUE,8.98
+602278,Casa del Taco,Chicago,05-11-2024,07:43,50,Large,Fish Taco,4,19.66,9.5,0.98,FALSE,10.48
+393916,Taco Time Express,San Diego,29-03-2024,11:01,82,Regular,Pork Taco,4,4.91,8,2.3,FALSE,10.3
+128223,Grande Tacos,Houston,06-12-2024,13:23,47,Regular,Fish Taco,5,12.73,9.25,1.9,FALSE,11.15
+353777,Urban Tacos,Chicago,24-11-2024,15:40,58,Regular,Fish Taco,4,12.24,8,2,TRUE,10
+631221,Taco Time Express,Austin,29-01-2024,13:21,56,Regular,Beef Taco,1,16.61,4.25,1.07,FALSE,5.32
+778428,La Vida Taco,New York,13-03-2025,11:11,61,Large,Fish Taco,0,0.76,4.5,0.78,FALSE,5.28
+635482,The Taco Stand,Austin,26-03-2025,21:38,83,Regular,Fish Taco,2,10.08,5.5,2.32,FALSE,7.82
+717181,The Taco Stand,Chicago,24-09-2024,22:39,13,Large,Beef Taco,2,10.69,7,2.89,FALSE,9.89
+221707,Spicy Taco House,San Diego,30-08-2024,06:03,53,Large,Chicken Taco,4,12.33,9.5,1.43,FALSE,10.93
+559450,Grande Tacos,San Diego,22-02-2024,04:13,48,Regular,Beef Taco,0,21.3,3,1.94,FALSE,4.94
+810032,Spicy Taco House,Houston,04-02-2025,18:49,32,Regular,Veggie Taco,4,10.95,8,1.39,FALSE,9.39
+936507,Taco Time Express,Chicago,24-05-2024,18:30,65,Large,Beef Taco,5,15.55,10.75,0.59,FALSE,11.34
+720970,Taco Time Express,Dallas,04-01-2024,10:57,37,Regular,Veggie Taco,5,20.31,9.25,0.19,FALSE,9.44
+206694,The Taco Stand,Chicago,11-10-2024,02:52,51,Regular,Fish Taco,0,6.93,3,2.59,FALSE,5.59
+653349,Casa del Taco,San Antonio,28-10-2024,20:45,88,Large,Pork Taco,0,9.02,4.5,2.54,FALSE,7.04
+747351,Spicy Taco House,Phoenix,22-04-2025,06:49,85,Regular,Chicken Taco,2,3.39,5.5,0.92,FALSE,6.42
+291936,Casa del Taco,Chicago,31-01-2025,18:27,59,Large,Pork Taco,1,14.58,5.75,1.27,FALSE,7.02
+610310,The Taco Stand,Chicago,07-03-2025,00:19,31,Large,Veggie Taco,1,5.08,5.75,2.53,FALSE,8.28
+749498,Taco Fiesta,San Diego,08-01-2024,10:38,72,Regular,Chicken Taco,3,24.11,6.75,1.52,FALSE,8.27
+619013,Taco Time Express,San Jose,18-11-2024,19:54,66,Large,Chicken Taco,0,14.35,4.5,2.39,FALSE,6.89
+331241,Urban Tacos,New York,01-08-2024,11:37,38,Large,Chicken Taco,3,14.36,8.25,2.32,FALSE,10.57
+619373,The Taco Stand,Austin,28-03-2024,22:24,83,Regular,Veggie Taco,4,20.67,8,1.1,FALSE,9.1
+962570,Taco Fiesta,San Jose,28-02-2025,08:45,37,Large,Beef Taco,5,20.84,10.75,2.25,FALSE,13
+412170,Taco Fiesta,San Jose,23-07-2024,03:13,54,Regular,Fish Taco,0,19.5,3,0.71,FALSE,3.71
+950083,La Vida Taco,San Diego,19-04-2025,00:06,90,Large,Chicken Taco,4,3.91,9.5,1.03,TRUE,10.53
+316995,Taco Fiesta,San Antonio,29-09-2024,11:40,78,Large,Pork Taco,4,4.63,9.5,4.9,TRUE,14.4
+406849,Urban Tacos,San Antonio,26-07-2024,15:38,75,Regular,Chicken Taco,3,23.01,6.75,2.98,FALSE,9.73
+787757,Spicy Taco House,Chicago,12-07-2024,22:19,28,Large,Chicken Taco,5,10.12,10.75,0.43,FALSE,11.18
+763121,Urban Tacos,Dallas,18-10-2024,09:43,67,Regular,Beef Taco,3,13.13,6.75,0.83,FALSE,7.58
+486999,Grande Tacos,San Jose,11-09-2024,05:06,84,Regular,Beef Taco,5,24.32,9.25,1.9,FALSE,11.15
+831160,Casa del Taco,Los Angeles,19-02-2025,02:23,60,Regular,Fish Taco,1,12.62,4.25,0.97,FALSE,5.22
+397368,Casa del Taco,Austin,24-03-2025,21:27,26,Large,Veggie Taco,5,19.18,10.75,0.14,FALSE,10.89
+756596,Grande Tacos,New York,06-04-2024,11:56,30,Large,Fish Taco,0,24.8,4.5,2.14,TRUE,6.64
+822040,Spicy Taco House,Phoenix,03-05-2024,11:33,45,Regular,Veggie Taco,2,2.52,5.5,1.99,FALSE,7.49
+780432,Spicy Taco House,New York,03-11-2024,20:20,90,Large,Chicken Taco,3,16.56,8.25,3.52,TRUE,11.77
+101139,Taco Haven,San Jose,01-03-2024,12:52,26,Regular,Pork Taco,5,11.4,9.25,0.02,FALSE,9.27
+460263,El Taco Loco,Dallas,12-04-2024,15:55,71,Regular,Chicken Taco,3,2.69,6.75,2.42,FALSE,9.17
+208214,Casa del Taco,San Diego,20-08-2024,10:31,27,Large,Chicken Taco,5,24.83,10.75,0.43,FALSE,11.18
+656278,La Vida Taco,New York,19-04-2025,01:10,31,Large,Veggie Taco,5,5.72,10.75,3.74,TRUE,14.49
+531709,La Vida Taco,San Jose,17-06-2024,17:44,21,Regular,Chicken Taco,0,14.94,3,1.15,FALSE,4.15
+550246,Casa del Taco,Chicago,11-07-2024,11:04,45,Regular,Chicken Taco,4,15.22,8,2.16,FALSE,10.16
+398761,Taco Fiesta,Phoenix,08-06-2024,13:47,76,Regular,Fish Taco,2,16.33,5.5,3.92,TRUE,9.42
+932336,Taco Haven,San Jose,26-10-2024,17:25,24,Regular,Fish Taco,5,15.05,9.25,2.64,TRUE,11.89
+112653,Casa del Taco,San Diego,12-04-2024,12:20,59,Large,Veggie Taco,4,17.23,9.5,2.29,FALSE,11.79
+907788,El Taco Loco,New York,01-04-2025,05:14,18,Regular,Veggie Taco,1,1.48,4.25,0.18,FALSE,4.43
+927630,Taco Time Express,Austin,10-08-2024,12:31,90,Large,Fish Taco,5,10.36,10.75,3.2,TRUE,13.95
+663772,La Vida Taco,Chicago,03-08-2024,12:22,20,Large,Beef Taco,4,23.06,9.5,4.87,TRUE,14.37
+262924,The Taco Stand,San Diego,30-10-2024,11:45,85,Regular,Veggie Taco,5,11.22,9.25,2.86,FALSE,12.11
+350229,Taco Fiesta,Houston,07-03-2024,23:07,65,Regular,Fish Taco,4,15.42,8,0.93,FALSE,8.93
+877722,Spicy Taco House,Los Angeles,10-01-2024,20:05,27,Regular,Chicken Taco,3,23.85,6.75,1.57,FALSE,8.32
+921021,Urban Tacos,Chicago,15-10-2024,20:08,26,Large,Beef Taco,0,8.71,4.5,1.29,FALSE,5.79
+649300,El Taco Loco,Phoenix,23-03-2025,21:33,90,Regular,Fish Taco,3,13.01,6.75,0.28,TRUE,7.03
+694423,Spicy Taco House,San Diego,02-05-2024,04:28,42,Regular,Pork Taco,5,18.21,9.25,0.69,FALSE,9.94
+633541,Taco Fiesta,New York,10-01-2024,13:03,41,Regular,Fish Taco,2,9.88,5.5,0.45,FALSE,5.95
+999138,Taco Fiesta,Austin,24-05-2025,07:11,63,Regular,Veggie Taco,1,10.7,4.25,3.6,TRUE,7.85
+384434,El Taco Loco,San Antonio,16-10-2024,13:38,25,Regular,Chicken Taco,1,20.21,4.25,2.94,FALSE,7.19
+520400,El Taco Loco,San Jose,07-08-2024,06:34,49,Large,Beef Taco,4,11.69,9.5,1.11,FALSE,10.61
+405759,La Vida Taco,Phoenix,28-04-2025,16:17,41,Large,Veggie Taco,4,24.31,9.5,2.99,FALSE,12.49
+913575,Taco Haven,Austin,09-07-2024,09:29,29,Regular,Fish Taco,0,6.21,3,1.04,FALSE,4.04
+980357,Taco Fiesta,San Diego,02-01-2024,03:15,58,Large,Beef Taco,1,13.48,5.75,0.71,FALSE,6.46
+615929,Taco Fiesta,Chicago,05-08-2024,08:19,21,Regular,Chicken Taco,4,10.62,8,2.69,FALSE,10.69
+580728,El Taco Loco,San Antonio,15-03-2024,05:41,74,Regular,Fish Taco,0,15,3,0.19,FALSE,3.19
+794622,Spicy Taco House,Houston,14-08-2024,13:14,43,Large,Fish Taco,5,20.88,10.75,0.98,FALSE,11.73
+574751,Urban Tacos,Houston,28-02-2024,00:16,35,Regular,Pork Taco,0,4.31,3,0.49,FALSE,3.49
+588694,Casa del Taco,Dallas,03-04-2024,18:41,78,Large,Chicken Taco,3,8.05,8.25,0.8,FALSE,9.05
+225738,El Taco Loco,Chicago,24-08-2024,06:58,87,Regular,Chicken Taco,2,4.13,5.5,3.56,TRUE,9.06
+473023,Taco Time Express,Austin,08-02-2024,00:30,48,Large,Chicken Taco,0,23.83,4.5,2.56,FALSE,7.06
+682959,The Taco Stand,Houston,14-03-2024,13:48,69,Regular,Chicken Taco,0,0.79,3,2.49,FALSE,5.49
+333086,Spicy Taco House,Houston,07-11-2024,03:23,57,Regular,Pork Taco,4,6.84,8,2.44,FALSE,10.44
+122859,El Taco Loco,Houston,16-05-2025,18:04,66,Regular,Beef Taco,2,3.5,5.5,2.83,FALSE,8.33
+153097,Spicy Taco House,San Antonio,02-12-2024,10:37,60,Large,Beef Taco,3,17.24,8.25,0.52,FALSE,8.77
+325146,Spicy Taco House,Phoenix,05-08-2024,08:52,67,Regular,Beef Taco,4,15.67,8,0.74,FALSE,8.74
+409440,Grande Tacos,Dallas,03-03-2025,17:34,71,Regular,Beef Taco,2,9.88,5.5,1.26,FALSE,6.76
+773870,The Taco Stand,Houston,04-05-2025,22:06,79,Regular,Fish Taco,5,9.3,9.25,2.72,TRUE,11.97
+608223,Casa del Taco,San Antonio,25-01-2025,05:17,51,Large,Veggie Taco,1,1.14,5.75,2.99,TRUE,8.74
+130726,Urban Tacos,New York,01-01-2025,08:50,77,Large,Pork Taco,1,24.36,5.75,0.3,FALSE,6.05
+788772,Taco Haven,Phoenix,18-02-2025,12:41,17,Regular,Pork Taco,3,9.19,6.75,2.52,FALSE,9.27
+986278,Spicy Taco House,Chicago,02-07-2024,17:37,85,Large,Veggie Taco,4,1.19,9.5,2.1,FALSE,11.6
+695225,La Vida Taco,Chicago,13-03-2025,09:06,34,Large,Pork Taco,2,4.8,7,0.11,FALSE,7.11
+158896,Taco Haven,San Antonio,18-06-2024,22:53,12,Large,Beef Taco,2,22.99,7,0.6,FALSE,7.6
+236828,Casa del Taco,Chicago,08-09-2024,08:07,17,Regular,Chicken Taco,4,17.77,8,0.71,TRUE,8.71
+216308,The Taco Stand,San Diego,26-02-2024,08:05,57,Large,Pork Taco,0,8.75,4.5,0.97,FALSE,5.47
+265154,Taco Time Express,San Jose,19-05-2025,05:35,50,Regular,Pork Taco,5,22.3,9.25,1.84,FALSE,11.09
+474158,Taco Haven,San Antonio,16-05-2024,04:47,58,Large,Veggie Taco,1,4.85,5.75,0.01,FALSE,5.76
+836109,La Vida Taco,Dallas,16-03-2025,18:38,14,Regular,Pork Taco,2,23.07,5.5,4.84,TRUE,10.34
+331625,La Vida Taco,Los Angeles,20-01-2025,09:33,28,Large,Beef Taco,1,9,5.75,0.96,FALSE,6.71
+767090,El Taco Loco,San Diego,12-12-2024,21:47,11,Large,Chicken Taco,1,17.48,5.75,1.05,FALSE,6.8
+925250,El Taco Loco,New York,07-02-2024,09:32,59,Large,Fish Taco,1,22.17,5.75,1.48,FALSE,7.23
+497108,Casa del Taco,Austin,18-10-2024,12:59,22,Large,Pork Taco,5,19.08,10.75,0.68,FALSE,11.43
+573209,El Taco Loco,New York,17-08-2024,01:29,12,Large,Veggie Taco,0,2.32,4.5,0.85,TRUE,5.35
+493696,Spicy Taco House,Los Angeles,28-02-2025,21:40,21,Large,Pork Taco,4,22.38,9.5,2.11,FALSE,11.61
+552275,Spicy Taco House,San Antonio,03-12-2024,06:04,30,Regular,Beef Taco,2,5.54,5.5,0.57,FALSE,6.07
+831063,The Taco Stand,Austin,25-07-2024,00:53,46,Large,Chicken Taco,0,1.72,4.5,1.72,FALSE,6.22
+980651,Grande Tacos,Chicago,12-02-2024,08:02,56,Regular,Fish Taco,0,7.72,3,1.99,FALSE,4.99
+729371,Grande Tacos,Houston,16-03-2024,07:58,13,Regular,Chicken Taco,5,7.65,9.25,0.41,TRUE,9.66
+984756,El Taco Loco,Phoenix,04-11-2024,17:19,70,Large,Veggie Taco,0,16.23,4.5,1.16,FALSE,5.66
+489043,Taco Time Express,San Diego,24-05-2024,22:09,67,Regular,Veggie Taco,3,11.89,6.75,0.68,FALSE,7.43
+381607,La Vida Taco,New York,27-04-2024,09:16,22,Regular,Veggie Taco,4,10.64,8,3.78,TRUE,11.78
+338564,The Taco Stand,New York,27-10-2024,16:10,76,Large,Pork Taco,5,21.74,10.75,2.37,TRUE,13.12
+347088,Grande Tacos,Phoenix,02-03-2024,07:49,60,Regular,Pork Taco,4,22.56,8,4,TRUE,12
+810446,La Vida Taco,Chicago,03-04-2024,10:12,67,Regular,Chicken Taco,1,20.31,4.25,0.38,FALSE,4.63
+543940,El Taco Loco,Dallas,05-06-2024,20:02,90,Regular,Pork Taco,2,8.33,5.5,2.18,FALSE,7.68
+946561,El Taco Loco,Los Angeles,28-10-2024,10:41,81,Large,Pork Taco,2,21.49,7,1.56,FALSE,8.56
+112964,La Vida Taco,San Antonio,09-02-2025,21:15,63,Regular,Fish Taco,1,4.13,4.25,2.94,TRUE,7.19
+895216,El Taco Loco,Los Angeles,13-03-2025,01:11,22,Large,Pork Taco,2,22.01,7,0.79,FALSE,7.79
+786594,Grande Tacos,San Antonio,17-04-2025,23:52,70,Regular,Chicken Taco,2,10.37,5.5,1.85,FALSE,7.35
+813884,Taco Time Express,New York,03-11-2024,10:06,52,Regular,Beef Taco,5,12.14,9.25,1.34,TRUE,10.59
+490532,Taco Fiesta,San Diego,23-08-2024,09:21,49,Large,Fish Taco,5,17.28,10.75,2.92,FALSE,13.67
+339030,Spicy Taco House,Phoenix,10-12-2024,04:10,51,Large,Fish Taco,4,16.32,9.5,0.56,FALSE,10.06
+321659,Taco Time Express,San Jose,05-02-2025,04:17,57,Regular,Pork Taco,1,2.11,4.25,2.13,FALSE,6.38
+522979,Spicy Taco House,Austin,17-03-2025,16:49,13,Regular,Chicken Taco,1,21.01,4.25,0.75,FALSE,5
+578621,Taco Fiesta,San Diego,03-06-2024,15:40,45,Large,Fish Taco,4,10.23,9.5,2.77,FALSE,12.27
+814263,Taco Fiesta,Houston,16-10-2024,07:17,72,Large,Chicken Taco,3,14.88,8.25,1.05,FALSE,9.3
+271456,Urban Tacos,Los Angeles,09-08-2024,10:04,13,Large,Beef Taco,1,21.42,5.75,2.34,FALSE,8.09
+324729,Taco Haven,Houston,09-06-2024,13:44,44,Large,Pork Taco,0,21.68,4.5,4.84,TRUE,9.34
+815338,Taco Fiesta,San Jose,12-04-2024,18:30,32,Regular,Chicken Taco,2,15.4,5.5,2.83,FALSE,8.33
+847362,Urban Tacos,Dallas,19-10-2024,10:00,54,Large,Veggie Taco,1,11.93,5.75,3.39,TRUE,9.14
+964352,La Vida Taco,Dallas,29-03-2025,23:37,23,Regular,Pork Taco,5,24.18,9.25,4.2,TRUE,13.45
+688730,La Vida Taco,San Antonio,07-08-2024,13:28,48,Regular,Fish Taco,0,8.74,3,0.83,FALSE,3.83
+440930,Urban Tacos,Phoenix,24-05-2025,14:57,48,Regular,Chicken Taco,4,19.25,8,4.5,TRUE,12.5
+944554,La Vida Taco,Dallas,05-09-2024,05:30,27,Regular,Fish Taco,2,6.86,5.5,1.26,FALSE,6.76
+507135,Taco Fiesta,San Antonio,20-03-2025,07:38,34,Large,Chicken Taco,5,13.6,10.75,2.35,FALSE,13.1
+804505,Casa del Taco,Austin,21-08-2024,04:02,31,Regular,Veggie Taco,0,12.03,3,2.22,FALSE,5.22
+860413,The Taco Stand,Chicago,17-09-2024,16:38,21,Regular,Veggie Taco,1,18.73,4.25,0.92,FALSE,5.17
+926372,Casa del Taco,San Diego,21-07-2024,09:10,84,Large,Fish Taco,0,12.03,4.5,4.33,TRUE,8.83
+711922,La Vida Taco,San Antonio,25-02-2024,07:33,70,Regular,Pork Taco,0,21.75,3,1.91,TRUE,4.91
+412848,Taco Time Express,New York,27-04-2024,02:42,27,Regular,Veggie Taco,3,24.69,6.75,4.46,TRUE,11.21
+579798,Spicy Taco House,San Diego,20-05-2024,02:05,20,Large,Veggie Taco,5,24.67,10.75,0.94,FALSE,11.69
+160831,Taco Fiesta,San Jose,31-07-2024,10:55,36,Regular,Pork Taco,1,12.49,4.25,2.29,FALSE,6.54
+192318,Spicy Taco House,San Antonio,02-12-2024,20:58,64,Large,Fish Taco,3,9.89,8.25,0.11,FALSE,8.36
+309100,Casa del Taco,New York,07-09-2024,06:29,77,Regular,Beef Taco,5,0.6,9.25,3.67,TRUE,12.92
+337256,Casa del Taco,Phoenix,10-04-2024,03:26,23,Large,Pork Taco,4,8,9.5,0.2,FALSE,9.7
+147939,Urban Tacos,Phoenix,20-12-2024,03:04,76,Large,Fish Taco,5,24.89,10.75,1.03,FALSE,11.78
+613989,Casa del Taco,Houston,08-05-2024,01:39,61,Regular,Chicken Taco,1,18.32,4.25,0.39,FALSE,4.64
+869735,Taco Fiesta,San Antonio,26-01-2025,23:03,31,Regular,Veggie Taco,5,16.44,9.25,0.19,TRUE,9.44
+771425,Urban Tacos,Austin,29-04-2025,00:04,16,Regular,Beef Taco,5,20.98,9.25,0.14,FALSE,9.39
+221414,Taco Time Express,San Jose,22-10-2024,08:26,25,Large,Fish Taco,5,4.25,10.75,2.09,FALSE,12.84
+760929,Taco Fiesta,Phoenix,22-11-2024,21:36,22,Large,Pork Taco,4,17.67,9.5,1.26,FALSE,10.76
+210010,The Taco Stand,San Antonio,01-04-2024,10:43,46,Regular,Beef Taco,3,5.37,6.75,0.6,FALSE,7.35
+375769,The Taco Stand,Houston,05-10-2024,00:08,62,Large,Chicken Taco,0,13.93,4.5,4.55,TRUE,9.05
+821634,Grande Tacos,San Diego,01-07-2024,03:29,10,Regular,Beef Taco,0,20.96,3,2.01,FALSE,5.01
+256389,El Taco Loco,Austin,28-02-2024,07:00,22,Large,Chicken Taco,3,24.72,8.25,0.89,FALSE,9.14
+586830,Taco Fiesta,Los Angeles,15-05-2024,16:40,15,Large,Veggie Taco,5,8.16,10.75,2.22,FALSE,12.97
+199613,Taco Fiesta,New York,17-04-2024,11:51,31,Large,Veggie Taco,3,23.9,8.25,0.8,FALSE,9.05
+868677,El Taco Loco,San Diego,23-09-2024,04:48,33,Regular,Fish Taco,3,24.08,6.75,0.82,FALSE,7.57
+504452,Grande Tacos,Dallas,18-05-2025,23:22,31,Regular,Chicken Taco,5,18.3,9.25,4.91,TRUE,14.16
+985364,Spicy Taco House,Los Angeles,19-11-2024,03:19,85,Large,Pork Taco,5,11.23,10.75,1.83,FALSE,12.58
+917012,Casa del Taco,San Antonio,23-01-2024,09:10,26,Large,Fish Taco,0,22.25,4.5,1.32,FALSE,5.82
+166412,Urban Tacos,San Diego,10-01-2024,14:24,77,Regular,Veggie Taco,4,13.32,8,2.1,FALSE,10.1
+199868,Taco Time Express,Houston,09-01-2025,07:49,54,Large,Chicken Taco,4,22.36,9.5,1.84,FALSE,11.34
+112210,Spicy Taco House,Austin,30-12-2024,12:10,73,Regular,Beef Taco,3,8.36,6.75,0.99,FALSE,7.74
+391668,Taco Fiesta,Austin,21-06-2024,23:33,80,Large,Fish Taco,1,2.43,5.75,1.33,FALSE,7.08
+700870,Grande Tacos,Los Angeles,22-01-2025,03:53,67,Large,Beef Taco,3,18.76,8.25,0.05,FALSE,8.3
+523037,Taco Time Express,New York,08-03-2025,17:40,80,Regular,Beef Taco,4,24.1,8,3.19,TRUE,11.19
+633030,The Taco Stand,Houston,23-05-2025,10:33,68,Large,Veggie Taco,0,20.51,4.5,2.53,FALSE,7.03
+448098,The Taco Stand,San Antonio,10-04-2025,23:54,70,Large,Fish Taco,0,2.89,4.5,1.98,FALSE,6.48
+102303,Casa del Taco,San Diego,07-05-2025,04:18,47,Large,Beef Taco,0,22.47,4.5,1.48,FALSE,5.98
+961760,Taco Time Express,Los Angeles,16-07-2024,12:17,88,Regular,Chicken Taco,0,23.29,3,1.18,FALSE,4.18
+579247,Taco Haven,San Diego,24-03-2024,16:53,63,Regular,Pork Taco,0,19.42,3,2.25,TRUE,5.25
+790441,La Vida Taco,Austin,14-04-2024,13:47,73,Regular,Pork Taco,5,1.69,9.25,4.68,TRUE,13.93
+979562,La Vida Taco,San Jose,29-01-2025,20:00,32,Regular,Chicken Taco,0,9.99,3,1.8,FALSE,4.8
+437477,The Taco Stand,Dallas,21-11-2024,04:28,87,Regular,Veggie Taco,3,24.11,6.75,2.91,FALSE,9.66
+574843,Spicy Taco House,Chicago,16-11-2024,14:07,87,Large,Pork Taco,2,17.94,7,4.68,TRUE,11.68
+763311,Taco Haven,Houston,11-06-2024,21:19,89,Large,Veggie Taco,5,3.75,10.75,2.13,FALSE,12.88
+286450,The Taco Stand,Austin,09-05-2025,16:15,51,Regular,Veggie Taco,4,12.27,8,1.71,FALSE,9.71
+799565,Taco Time Express,Austin,10-08-2024,02:05,64,Regular,Pork Taco,0,1.12,3,0.73,TRUE,3.73
+802812,Taco Fiesta,Houston,26-07-2024,08:50,30,Large,Veggie Taco,1,21.06,5.75,2.07,FALSE,7.82
+409477,Taco Haven,Austin,26-01-2024,02:14,55,Large,Beef Taco,4,21.77,9.5,2.22,FALSE,11.72
+335203,The Taco Stand,Dallas,03-07-2024,13:06,75,Large,Beef Taco,3,10,8.25,2.87,FALSE,11.12
+818430,Casa del Taco,Austin,11-02-2024,18:56,11,Large,Chicken Taco,4,21.79,9.5,4.3,TRUE,13.8
+564586,Taco Haven,San Diego,02-04-2025,00:17,79,Regular,Chicken Taco,2,11.5,5.5,2.95,FALSE,8.45
+178086,Spicy Taco House,Chicago,03-02-2025,02:47,25,Large,Beef Taco,3,7.34,8.25,0.79,FALSE,9.04
+268746,La Vida Taco,Phoenix,05-01-2024,09:13,52,Large,Chicken Taco,0,4.27,4.5,0.97,FALSE,5.47
+153325,La Vida Taco,Phoenix,16-01-2025,00:31,83,Large,Beef Taco,5,8.29,10.75,0.66,FALSE,11.41
+292800,The Taco Stand,Los Angeles,27-01-2025,08:29,30,Large,Pork Taco,4,10.38,9.5,1.05,FALSE,10.55
+323717,Casa del Taco,San Diego,07-10-2024,05:45,47,Regular,Pork Taco,4,12.13,8,1.68,FALSE,9.68
+888669,Taco Fiesta,Los Angeles,25-09-2024,18:02,67,Regular,Pork Taco,4,6.47,8,0.12,FALSE,8.12
+436526,Taco Time Express,Los Angeles,26-10-2024,17:14,42,Large,Beef Taco,4,20.64,9.5,1.87,TRUE,11.37
+941814,The Taco Stand,San Jose,13-01-2025,02:41,15,Large,Chicken Taco,2,13.09,7,2.84,FALSE,9.84
+275526,The Taco Stand,Austin,06-01-2024,16:39,90,Regular,Chicken Taco,5,15.92,9.25,1.07,TRUE,10.32
+818699,Taco Time Express,Los Angeles,08-06-2024,16:16,78,Large,Beef Taco,5,17.31,10.75,0.12,TRUE,10.87
+851690,Casa del Taco,New York,08-03-2024,23:30,19,Regular,Chicken Taco,2,14.17,5.5,1.72,FALSE,7.22
+338703,Urban Tacos,Dallas,28-10-2024,09:27,67,Large,Fish Taco,2,0.91,7,2.02,FALSE,9.02
+660814,Taco Fiesta,San Antonio,19-02-2024,02:50,84,Regular,Beef Taco,2,23.24,5.5,0.32,FALSE,5.82
+925115,Urban Tacos,San Antonio,08-03-2024,04:34,46,Large,Fish Taco,3,20.64,8.25,0.09,FALSE,8.34
+263917,The Taco Stand,Houston,15-04-2024,22:20,60,Large,Chicken Taco,2,17.09,7,2.74,FALSE,9.74
+933635,Casa del Taco,New York,05-03-2025,22:26,81,Regular,Beef Taco,0,0.62,3,1.79,FALSE,4.79
+663244,The Taco Stand,Los Angeles,24-08-2024,15:51,36,Large,Chicken Taco,3,22.69,8.25,4.26,TRUE,12.51
+249375,Spicy Taco House,Chicago,20-06-2024,11:47,88,Large,Chicken Taco,0,4.94,4.5,2.4,FALSE,6.9
+993650,Taco Fiesta,Austin,24-12-2024,06:36,80,Regular,Veggie Taco,5,2.15,9.25,0.29,FALSE,9.54
+860835,La Vida Taco,San Jose,13-09-2024,23:30,55,Regular,Chicken Taco,0,7.49,3,0.21,FALSE,3.21
+302897,Casa del Taco,San Jose,16-12-2024,00:38,52,Large,Pork Taco,1,14.36,5.75,1.09,FALSE,6.84
+431699,Taco Time Express,Chicago,04-01-2024,18:04,50,Regular,Chicken Taco,5,18.63,9.25,1.31,FALSE,10.56
+980919,Casa del Taco,Chicago,14-09-2024,12:46,71,Large,Fish Taco,2,19.48,7,2.43,TRUE,9.43
+214119,Spicy Taco House,San Antonio,04-03-2024,16:06,45,Regular,Pork Taco,1,6.95,4.25,2.66,FALSE,6.91
+180176,El Taco Loco,New York,28-01-2025,22:29,90,Regular,Pork Taco,4,10.43,8,1.77,FALSE,9.77
+138436,The Taco Stand,Phoenix,26-02-2025,03:00,79,Large,Chicken Taco,2,10.12,7,2.67,FALSE,9.67
+718241,Urban Tacos,Chicago,26-12-2024,22:39,74,Regular,Fish Taco,2,12.8,5.5,1.99,FALSE,7.49
+989173,La Vida Taco,Chicago,03-02-2025,08:12,27,Large,Chicken Taco,1,14.38,5.75,1.7,FALSE,7.45
+253300,Grande Tacos,San Diego,01-02-2024,09:28,38,Large,Chicken Taco,0,6.98,4.5,0.7,FALSE,5.2
+801062,Taco Haven,Austin,07-10-2024,14:12,59,Large,Fish Taco,0,1.48,4.5,1.95,FALSE,6.45
+208239,The Taco Stand,Phoenix,23-07-2024,12:34,84,Regular,Fish Taco,5,9.77,9.25,1.76,FALSE,11.01
+976052,El Taco Loco,Austin,14-07-2024,09:54,58,Regular,Pork Taco,3,9.15,6.75,4.34,TRUE,11.09
+610511,Grande Tacos,San Antonio,06-01-2024,02:59,74,Regular,Fish Taco,1,6.13,4.25,2.57,TRUE,6.82
+394450,Taco Haven,Chicago,25-05-2024,04:10,30,Large,Pork Taco,5,20.52,10.75,3.31,TRUE,14.06
+534753,Casa del Taco,Los Angeles,09-01-2025,00:07,71,Large,Chicken Taco,4,4.45,9.5,2.5,FALSE,12
+123536,Taco Haven,New York,09-04-2024,07:57,83,Regular,Chicken Taco,5,13.06,9.25,2.67,FALSE,11.92
+253999,Taco Fiesta,Chicago,19-07-2024,14:18,33,Large,Pork Taco,4,16.12,9.5,2.64,FALSE,12.14
+863336,Urban Tacos,Los Angeles,17-06-2024,05:35,67,Large,Fish Taco,1,5.87,5.75,1.23,FALSE,6.98
+249644,La Vida Taco,Chicago,29-04-2025,01:30,75,Large,Chicken Taco,5,17.3,10.75,2.77,FALSE,13.52
+725510,La Vida Taco,Los Angeles,27-06-2024,12:02,58,Large,Chicken Taco,0,0.91,4.5,1.57,FALSE,6.07
+628859,Taco Time Express,Chicago,15-04-2025,07:32,22,Regular,Fish Taco,4,15.2,8,2.63,FALSE,10.63
+657244,The Taco Stand,Los Angeles,13-03-2024,09:11,71,Regular,Pork Taco,4,20.77,8,2.69,FALSE,10.69
+912510,Taco Time Express,Austin,22-11-2024,18:07,57,Regular,Pork Taco,3,6.12,6.75,2.41,FALSE,9.16
+927909,Taco Time Express,San Diego,02-04-2025,12:39,83,Regular,Fish Taco,1,6.74,4.25,2.3,FALSE,6.55
+187889,Urban Tacos,San Antonio,26-02-2025,07:52,62,Large,Chicken Taco,0,17.87,4.5,2.37,FALSE,6.87
+706063,The Taco Stand,Los Angeles,07-02-2025,17:03,10,Large,Chicken Taco,5,20.21,10.75,1.23,FALSE,11.98
+211760,Spicy Taco House,Dallas,21-05-2025,02:15,84,Large,Veggie Taco,4,10.88,9.5,1.1,FALSE,10.6
+388946,Taco Time Express,Houston,16-11-2024,23:07,80,Large,Chicken Taco,2,14.2,7,2.42,TRUE,9.42
+421549,La Vida Taco,San Diego,05-11-2024,05:40,27,Regular,Chicken Taco,3,19.69,6.75,2.85,FALSE,9.6
+205149,Taco Haven,Austin,07-11-2024,02:59,53,Regular,Chicken Taco,3,24.13,6.75,0.02,FALSE,6.77
+195513,Spicy Taco House,San Jose,11-04-2025,05:23,65,Regular,Beef Taco,2,5.93,5.5,0.24,FALSE,5.74
+139589,Taco Time Express,Dallas,21-04-2025,21:08,76,Large,Pork Taco,0,23.67,4.5,2.46,FALSE,6.96
+771394,Grande Tacos,San Jose,09-01-2024,07:39,35,Large,Chicken Taco,0,19.71,4.5,1.53,FALSE,6.03
+832377,Taco Haven,San Antonio,11-05-2024,15:23,14,Large,Chicken Taco,5,0.51,10.75,0.79,TRUE,11.54
+389340,Taco Time Express,San Diego,02-11-2024,22:00,61,Regular,Pork Taco,0,18.55,3,0.34,TRUE,3.34
+194545,The Taco Stand,Phoenix,10-03-2025,06:38,84,Large,Veggie Taco,2,6.04,7,2.89,FALSE,9.89
+576849,Taco Time Express,San Antonio,04-01-2024,14:42,43,Regular,Fish Taco,4,3.11,8,0.22,FALSE,8.22
+408545,Casa del Taco,Los Angeles,02-02-2025,16:21,42,Large,Fish Taco,3,14.3,8.25,3.85,TRUE,12.1
+894268,Casa del Taco,San Jose,23-12-2024,20:27,85,Regular,Fish Taco,0,6.82,3,1.15,FALSE,4.15
+926965,Taco Haven,Houston,02-09-2024,05:38,62,Large,Pork Taco,4,0.74,9.5,2.5,FALSE,12
+360316,Urban Tacos,Los Angeles,05-11-2024,20:36,53,Regular,Pork Taco,1,12.18,4.25,1.06,FALSE,5.31
+701581,Urban Tacos,Chicago,27-05-2024,16:58,73,Regular,Chicken Taco,5,6.43,9.25,0.8,FALSE,10.05
+340341,Taco Haven,Houston,25-04-2025,11:28,55,Regular,Beef Taco,0,23.04,3,2.03,FALSE,5.03
+795650,Grande Tacos,San Antonio,06-01-2024,03:28,79,Regular,Fish Taco,2,15.71,5.5,2.46,TRUE,7.96
+702427,Urban Tacos,San Jose,22-05-2024,00:58,75,Large,Fish Taco,1,18.88,5.75,0.38,FALSE,6.13
+651273,Taco Time Express,San Jose,24-02-2025,00:38,14,Large,Fish Taco,5,19.51,10.75,1.37,FALSE,12.12
+226215,The Taco Stand,San Jose,02-09-2024,04:09,11,Regular,Chicken Taco,3,14.73,6.75,0.98,FALSE,7.73
+742544,Urban Tacos,Chicago,02-03-2025,01:57,43,Regular,Veggie Taco,3,23.98,6.75,1.72,TRUE,8.47
+292847,Grande Tacos,Dallas,12-06-2024,12:36,63,Large,Veggie Taco,3,7.35,8.25,0.54,FALSE,8.79
+237509,La Vida Taco,Houston,18-03-2024,13:42,44,Regular,Pork Taco,3,21.48,6.75,0.59,FALSE,7.34
+938900,Spicy Taco House,San Jose,08-01-2024,13:36,32,Large,Fish Taco,1,24.89,5.75,2.55,FALSE,8.3
+642121,The Taco Stand,San Diego,12-01-2025,23:15,48,Large,Pork Taco,4,1.67,9.5,0.49,TRUE,9.99
+271276,Taco Fiesta,Houston,16-07-2024,12:18,70,Regular,Fish Taco,5,8.7,9.25,1.08,FALSE,10.33
+687569,The Taco Stand,Phoenix,24-09-2024,07:14,12,Large,Beef Taco,2,21.75,7,2.89,FALSE,9.89
+308622,La Vida Taco,San Antonio,19-05-2025,18:22,78,Regular,Veggie Taco,2,8.46,5.5,1.53,FALSE,7.03
+912378,Grande Tacos,Los Angeles,22-10-2024,23:40,88,Large,Fish Taco,5,23.94,10.75,2.6,FALSE,13.35
+771697,Casa del Taco,Dallas,05-05-2025,07:47,88,Large,Beef Taco,0,4.47,4.5,0.68,FALSE,5.18
+432270,Urban Tacos,Phoenix,15-04-2025,05:11,60,Large,Fish Taco,2,18.82,7,1.56,FALSE,8.56
+572161,Taco Time Express,Chicago,22-05-2024,19:53,12,Regular,Chicken Taco,5,6.67,9.25,2.23,FALSE,11.48
+886159,El Taco Loco,Houston,09-05-2024,15:26,60,Regular,Beef Taco,0,23.45,3,1.42,FALSE,4.42
+156440,Taco Fiesta,Dallas,10-02-2025,23:44,20,Regular,Veggie Taco,4,4.3,8,1.96,FALSE,9.96
+508783,Urban Tacos,Houston,11-07-2024,03:48,46,Large,Chicken Taco,1,13.41,5.75,0.51,FALSE,6.26
+136862,Casa del Taco,San Diego,04-01-2025,20:10,69,Large,Pork Taco,3,3.81,8.25,4.74,TRUE,12.99
+665484,Spicy Taco House,San Antonio,09-04-2025,03:46,68,Large,Pork Taco,5,16.17,10.75,0.93,FALSE,11.68
+464032,Grande Tacos,Austin,25-06-2024,09:58,21,Large,Veggie Taco,2,10.6,7,0.47,FALSE,7.47
+111068,Taco Fiesta,Austin,15-04-2024,20:49,54,Large,Fish Taco,4,0.7,9.5,2.77,FALSE,12.27
+892170,Grande Tacos,Phoenix,08-01-2024,02:14,65,Large,Pork Taco,1,20.02,5.75,1.64,FALSE,7.39
+297731,Taco Time Express,Austin,05-12-2024,12:15,60,Regular,Chicken Taco,5,18.56,9.25,1.17,FALSE,10.42
+496737,Taco Haven,Phoenix,02-03-2024,12:34,64,Regular,Pork Taco,4,20.29,8,3.42,TRUE,11.42
+398505,The Taco Stand,Phoenix,16-11-2024,17:05,34,Regular,Chicken Taco,1,7.6,4.25,3.18,TRUE,7.43
+747736,Grande Tacos,Phoenix,28-04-2025,16:58,72,Regular,Veggie Taco,0,4.23,3,2.91,FALSE,5.91
+123205,Spicy Taco House,Los Angeles,07-08-2024,02:59,44,Regular,Fish Taco,5,0.7,9.25,0.27,FALSE,9.52
+115440,Grande Tacos,Houston,22-09-2024,13:43,63,Large,Fish Taco,2,11.86,7,3.96,TRUE,10.96
+446290,El Taco Loco,Chicago,13-02-2024,12:37,44,Large,Beef Taco,4,12.02,9.5,0.58,FALSE,10.08
+982417,Urban Tacos,Dallas,10-01-2024,19:10,25,Regular,Fish Taco,3,6.56,6.75,2.98,FALSE,9.73
+308855,Grande Tacos,Los Angeles,08-02-2025,18:44,36,Large,Fish Taco,5,24.05,10.75,4.68,TRUE,15.43
+266316,Taco Fiesta,Austin,08-02-2025,14:46,25,Large,Fish Taco,5,7.82,10.75,1.8,TRUE,12.55
+154617,Taco Haven,Los Angeles,02-07-2024,06:43,65,Large,Beef Taco,1,19.96,5.75,1.75,FALSE,7.5
+515035,Taco Haven,New York,02-02-2024,14:48,84,Large,Pork Taco,1,9.6,5.75,0.27,FALSE,6.02
+265358,Grande Tacos,Los Angeles,25-04-2025,12:22,53,Regular,Beef Taco,2,16.29,5.5,2.1,FALSE,7.6
+929912,El Taco Loco,Chicago,13-01-2025,22:03,39,Large,Pork Taco,5,19.04,10.75,2.42,FALSE,13.17
+560030,Taco Haven,New York,20-10-2024,10:07,55,Regular,Veggie Taco,0,12.39,3,2.19,TRUE,5.19
+409030,The Taco Stand,San Jose,27-05-2024,09:40,82,Regular,Pork Taco,2,8.43,5.5,1.41,FALSE,6.91
+971733,La Vida Taco,Austin,04-05-2024,13:01,18,Regular,Fish Taco,2,20.58,5.5,2.71,TRUE,8.21
+576136,Taco Fiesta,Austin,21-10-2024,09:53,33,Regular,Pork Taco,2,19.51,5.5,0.72,FALSE,6.22
+856027,El Taco Loco,Austin,27-10-2024,23:21,34,Large,Pork Taco,1,15.52,5.75,1.61,TRUE,7.36
+772036,Casa del Taco,Los Angeles,15-03-2024,18:20,76,Regular,Beef Taco,1,4.88,4.25,0.09,FALSE,4.34
+212255,Grande Tacos,Houston,17-03-2024,16:54,14,Large,Fish Taco,4,15.79,9.5,2.95,TRUE,12.45
+151470,Casa del Taco,Houston,15-04-2025,15:47,19,Regular,Chicken Taco,5,12.54,9.25,2.67,FALSE,11.92
+183840,Grande Tacos,New York,07-10-2024,08:08,81,Large,Veggie Taco,5,1.93,10.75,1.85,FALSE,12.6
+654718,Taco Fiesta,Los Angeles,24-08-2024,01:11,19,Regular,Pork Taco,0,2.98,3,1.16,TRUE,4.16
+504048,Taco Haven,Houston,12-02-2025,16:55,41,Regular,Pork Taco,5,14.17,9.25,2.24,FALSE,11.49
+903506,La Vida Taco,San Diego,22-12-2024,07:10,64,Regular,Chicken Taco,1,13.97,4.25,2.52,TRUE,6.77
+789472,Spicy Taco House,Austin,10-04-2025,23:14,66,Large,Veggie Taco,4,24.79,9.5,0.97,FALSE,10.47
+489776,Taco Time Express,Dallas,08-09-2024,05:33,87,Regular,Pork Taco,4,5.74,8,3.83,TRUE,11.83
+880746,Urban Tacos,San Diego,17-12-2024,09:24,67,Large,Beef Taco,5,1.35,10.75,0.85,FALSE,11.6
+117094,The Taco Stand,Chicago,22-08-2024,10:44,10,Large,Chicken Taco,1,21.47,5.75,0.07,FALSE,5.82
+961866,Urban Tacos,Austin,01-02-2025,02:47,81,Regular,Beef Taco,0,11.78,3,0.78,TRUE,3.78
+377860,Casa del Taco,San Antonio,13-07-2024,01:40,39,Large,Veggie Taco,0,14.48,4.5,2.85,TRUE,7.35
+327999,El Taco Loco,San Diego,09-01-2025,19:04,32,Large,Pork Taco,0,15.08,4.5,0.9,FALSE,5.4
+866288,La Vida Taco,Dallas,01-03-2024,22:55,17,Large,Veggie Taco,3,10.7,8.25,2.6,FALSE,10.85
+907812,Taco Haven,San Antonio,09-01-2024,21:09,90,Large,Beef Taco,2,13.35,7,0.96,FALSE,7.96
+692354,Spicy Taco House,San Diego,25-01-2025,05:26,38,Regular,Beef Taco,5,18.42,9.25,1.96,TRUE,11.21
+567262,La Vida Taco,San Antonio,27-01-2025,00:50,21,Regular,Fish Taco,2,19.77,5.5,0.44,FALSE,5.94
+452497,El Taco Loco,San Jose,19-03-2025,20:25,16,Large,Veggie Taco,0,10.26,4.5,1.3,FALSE,5.8
+831770,Spicy Taco House,Chicago,08-01-2025,13:02,81,Regular,Fish Taco,3,16.48,6.75,0.59,FALSE,7.34
+745919,The Taco Stand,Houston,07-07-2024,05:04,19,Large,Fish Taco,2,17.28,7,2.88,TRUE,9.88
+217996,Taco Time Express,Dallas,10-10-2024,17:04,54,Regular,Veggie Taco,2,15.05,5.5,0.07,FALSE,5.57
+419625,Spicy Taco House,San Diego,23-04-2025,15:11,66,Regular,Fish Taco,0,23.14,3,0.7,FALSE,3.7
+818651,Casa del Taco,Chicago,07-03-2024,15:41,24,Regular,Chicken Taco,4,23.2,8,2.61,FALSE,10.61
+959972,Urban Tacos,New York,23-09-2024,15:02,24,Large,Fish Taco,3,1.06,8.25,0.63,FALSE,8.88
+664139,Taco Haven,Houston,28-02-2025,10:05,76,Large,Pork Taco,3,15.76,8.25,2.98,FALSE,11.23
+828834,Taco Fiesta,Dallas,28-03-2025,19:59,77,Regular,Veggie Taco,1,1.97,4.25,0.6,FALSE,4.85
+830361,La Vida Taco,Phoenix,11-02-2024,05:34,69,Regular,Beef Taco,3,16.68,6.75,3.31,TRUE,10.06
+792165,Casa del Taco,Los Angeles,15-01-2024,19:38,47,Large,Chicken Taco,3,12.96,8.25,2.13,FALSE,10.38
+430779,Grande Tacos,San Antonio,16-02-2025,21:00,21,Regular,Chicken Taco,4,24.19,8,2.8,TRUE,10.8
+847078,Taco Fiesta,New York,11-07-2024,03:43,77,Large,Veggie Taco,3,10.14,8.25,0.47,FALSE,8.72
+463625,Casa del Taco,San Diego,30-04-2025,15:09,48,Regular,Pork Taco,2,20.39,5.5,1.88,FALSE,7.38
+505977,Taco Fiesta,Austin,05-08-2024,15:11,38,Regular,Veggie Taco,3,16.59,6.75,0.26,FALSE,7.01
+500773,The Taco Stand,San Antonio,30-04-2025,20:37,39,Large,Chicken Taco,4,4.24,9.5,2.91,FALSE,12.41
+734775,Casa del Taco,San Jose,25-02-2025,03:58,26,Regular,Chicken Taco,4,13.76,8,2.4,FALSE,10.4
+244818,Urban Tacos,Austin,15-04-2024,01:17,65,Regular,Pork Taco,1,8.28,4.25,1.67,FALSE,5.92
+854388,El Taco Loco,Chicago,03-09-2024,16:26,28,Regular,Veggie Taco,3,24.05,6.75,0.91,FALSE,7.66
+881828,Urban Tacos,Chicago,25-05-2024,23:20,23,Regular,Chicken Taco,0,19.18,3,3.06,TRUE,6.06
+379825,La Vida Taco,San Antonio,20-04-2025,15:15,39,Regular,Chicken Taco,5,1.14,9.25,0.4,TRUE,9.65
+917707,Grande Tacos,Chicago,25-01-2025,04:00,87,Large,Veggie Taco,1,21.38,5.75,2.46,TRUE,8.21
+244192,Spicy Taco House,Houston,24-06-2024,18:02,14,Large,Beef Taco,2,23.78,7,0.67,FALSE,7.67
+803950,Taco Haven,Houston,21-02-2024,08:52,32,Large,Pork Taco,3,17.35,8.25,2.6,FALSE,10.85
+358771,Taco Time Express,Dallas,02-02-2024,11:41,87,Large,Veggie Taco,3,15.48,8.25,2.23,FALSE,10.48
+722650,The Taco Stand,Austin,13-05-2025,04:26,14,Regular,Fish Taco,3,20.76,6.75,0.13,FALSE,6.88
+357657,The Taco Stand,Austin,03-11-2024,06:43,15,Large,Pork Taco,5,24.08,10.75,0.95,TRUE,11.7
+560905,Taco Time Express,Phoenix,10-08-2024,01:50,69,Regular,Fish Taco,2,15.52,5.5,0.27,TRUE,5.77
+642081,Spicy Taco House,San Jose,16-05-2025,20:12,67,Regular,Pork Taco,0,4.9,3,1.76,FALSE,4.76
+829928,The Taco Stand,Chicago,01-11-2024,07:17,62,Large,Fish Taco,0,4.88,4.5,1.77,FALSE,6.27
+847251,Taco Haven,San Jose,11-03-2024,01:04,42,Large,Chicken Taco,5,18.46,10.75,0.27,FALSE,11.02
+840532,Grande Tacos,San Diego,07-03-2024,06:13,77,Large,Pork Taco,4,23.77,9.5,1.14,FALSE,10.64
+499095,Taco Fiesta,Chicago,17-09-2024,08:27,82,Regular,Chicken Taco,1,4.88,4.25,2.14,FALSE,6.39
+539963,Urban Tacos,Phoenix,12-12-2024,14:51,46,Regular,Beef Taco,1,24.03,4.25,0.01,FALSE,4.26
+902575,Urban Tacos,New York,22-12-2024,05:43,73,Large,Pork Taco,0,15.4,4.5,2.47,TRUE,6.97
+327408,La Vida Taco,San Jose,18-12-2024,10:17,62,Large,Beef Taco,4,15.2,9.5,0.73,FALSE,10.23
+673929,Urban Tacos,San Antonio,03-05-2025,06:36,81,Regular,Beef Taco,1,4.13,4.25,3.27,TRUE,7.52
+138504,Spicy Taco House,New York,25-03-2025,00:25,87,Large,Veggie Taco,0,1.7,4.5,1.25,FALSE,5.75
+286906,Spicy Taco House,Phoenix,19-04-2025,15:32,86,Regular,Fish Taco,5,14.68,9.25,4.66,TRUE,13.91
+197649,Urban Tacos,San Diego,13-10-2024,06:37,58,Regular,Fish Taco,4,2.09,8,2.35,TRUE,10.35
+227950,Urban Tacos,San Diego,13-02-2025,08:58,62,Regular,Chicken Taco,4,1.93,8,1.71,FALSE,9.71
+759531,The Taco Stand,Los Angeles,10-01-2025,16:07,87,Large,Fish Taco,4,21.27,9.5,0.78,FALSE,10.28
+703080,La Vida Taco,San Diego,10-04-2024,18:01,88,Large,Pork Taco,5,15.98,10.75,1.48,FALSE,12.23
+288646,La Vida Taco,Houston,13-08-2024,15:05,34,Regular,Beef Taco,0,11.89,3,2.39,FALSE,5.39
+873291,Taco Haven,San Antonio,18-11-2024,01:18,62,Regular,Veggie Taco,2,14.23,5.5,1.91,FALSE,7.41
+111846,Taco Haven,Phoenix,16-07-2024,14:41,18,Large,Veggie Taco,4,13.97,9.5,2.3,FALSE,11.8
+219366,Casa del Taco,San Diego,03-11-2024,14:53,82,Regular,Chicken Taco,1,8.6,4.25,1.69,TRUE,5.94
+805139,Grande Tacos,San Jose,28-01-2024,14:51,27,Large,Chicken Taco,5,11.79,10.75,4.33,TRUE,15.08
+451387,Grande Tacos,Dallas,13-02-2024,12:19,76,Large,Pork Taco,5,17.12,10.75,1.67,FALSE,12.42
+119627,Taco Haven,San Antonio,14-09-2024,15:41,55,Regular,Chicken Taco,2,21.1,5.5,1.7,TRUE,7.2
+493468,The Taco Stand,Chicago,19-03-2025,11:52,87,Large,Chicken Taco,4,3.36,9.5,2.35,FALSE,11.85
+423256,Casa del Taco,New York,29-07-2024,21:04,62,Regular,Fish Taco,1,9.6,4.25,2.49,FALSE,6.74
+417329,Taco Haven,Austin,22-08-2024,19:37,32,Regular,Veggie Taco,0,19.56,3,2.74,FALSE,5.74
+565330,The Taco Stand,New York,09-01-2025,21:29,74,Regular,Chicken Taco,2,23.13,5.5,2.2,FALSE,7.7
+649063,Urban Tacos,San Diego,21-04-2024,07:12,22,Regular,Chicken Taco,5,1.4,9.25,1.94,TRUE,11.19
+647718,El Taco Loco,New York,29-08-2024,13:06,15,Regular,Veggie Taco,3,22.29,6.75,0.31,FALSE,7.06
+903398,Urban Tacos,New York,24-03-2025,14:29,49,Regular,Veggie Taco,1,5.22,4.25,0.83,FALSE,5.08
+434652,Grande Tacos,Los Angeles,30-07-2024,18:38,29,Regular,Veggie Taco,0,0.87,3,1.87,FALSE,4.87
+639031,El Taco Loco,Houston,25-02-2025,09:28,54,Large,Veggie Taco,1,23.61,5.75,2.41,FALSE,8.16
+701969,Taco Haven,Chicago,25-02-2024,08:03,49,Large,Pork Taco,3,1.74,8.25,0.14,TRUE,8.39
+808308,Taco Fiesta,Los Angeles,24-10-2024,22:48,16,Regular,Fish Taco,3,4.89,6.75,1.79,FALSE,8.54
+721549,Grande Tacos,San Antonio,03-10-2024,05:19,49,Large,Chicken Taco,5,19.08,10.75,2.43,FALSE,13.18
+182361,Grande Tacos,San Antonio,12-04-2024,08:50,21,Large,Beef Taco,3,8.1,8.25,1.93,FALSE,10.18
+903726,Grande Tacos,San Jose,28-06-2024,23:05,38,Regular,Pork Taco,2,22.87,5.5,1.18,FALSE,6.68
+833599,Casa del Taco,San Diego,18-12-2024,01:48,72,Regular,Beef Taco,3,3.27,6.75,1.44,FALSE,8.19
+986850,Spicy Taco House,Phoenix,27-09-2024,18:39,87,Regular,Pork Taco,0,10.44,3,2.14,FALSE,5.14
+212178,Casa del Taco,Austin,19-05-2025,10:39,19,Large,Pork Taco,3,10.32,8.25,1.24,FALSE,9.49
+751034,Taco Haven,Austin,03-05-2024,12:21,71,Large,Beef Taco,2,5.6,7,2.08,FALSE,9.08
+552091,Taco Time Express,San Antonio,22-09-2024,19:05,79,Regular,Chicken Taco,5,16.91,9.25,3.7,TRUE,12.95
+846490,La Vida Taco,San Jose,29-03-2024,19:07,85,Large,Veggie Taco,4,2.89,9.5,1.34,FALSE,10.84
+422998,Taco Time Express,Los Angeles,09-04-2025,16:21,23,Large,Veggie Taco,3,16.3,8.25,0.18,FALSE,8.43
+328182,Spicy Taco House,San Antonio,09-05-2025,02:22,10,Regular,Chicken Taco,3,13.52,6.75,1.17,FALSE,7.92
+706005,Grande Tacos,Houston,08-06-2024,17:48,50,Large,Pork Taco,5,7.96,10.75,4.72,TRUE,15.47
+555844,Casa del Taco,Los Angeles,28-03-2025,14:49,11,Large,Chicken Taco,2,2.03,7,2.7,FALSE,9.7
+155708,Taco Fiesta,Austin,06-10-2024,00:48,24,Large,Beef Taco,1,11.08,5.75,2.95,TRUE,8.7
+755584,Casa del Taco,Dallas,11-11-2024,08:59,58,Large,Pork Taco,1,16.73,5.75,1.42,FALSE,7.17
+297370,The Taco Stand,Dallas,06-10-2024,20:15,63,Regular,Veggie Taco,5,3.58,9.25,0.06,TRUE,9.31
+779885,Taco Fiesta,Chicago,13-01-2025,00:46,65,Regular,Beef Taco,1,16.23,4.25,1.25,FALSE,5.5
+578180,La Vida Taco,Dallas,29-04-2025,02:11,33,Large,Pork Taco,3,14.03,8.25,1.35,FALSE,9.6
+472566,Taco Haven,Chicago,25-11-2024,22:19,87,Regular,Pork Taco,3,21.25,6.75,0.71,FALSE,7.46
+626100,Urban Tacos,Dallas,28-02-2025,05:16,83,Large,Beef Taco,0,14.42,4.5,2.11,FALSE,6.61
+218661,La Vida Taco,San Jose,03-03-2024,04:29,28,Large,Fish Taco,4,2.42,9.5,4.45,TRUE,13.95
+192742,Taco Haven,San Jose,04-05-2025,20:24,19,Large,Pork Taco,0,22.64,4.5,2.68,TRUE,7.18
+111307,Grande Tacos,San Jose,02-02-2025,04:43,70,Large,Fish Taco,2,24.03,7,3.99,TRUE,10.99
+403257,Spicy Taco House,New York,09-04-2025,04:45,48,Large,Beef Taco,5,12.09,10.75,0.51,FALSE,11.26
+154127,Urban Tacos,San Antonio,22-01-2024,04:52,46,Large,Beef Taco,1,12.89,5.75,2.55,FALSE,8.3
+391345,Urban Tacos,Chicago,23-04-2025,07:18,45,Large,Veggie Taco,0,18.67,4.5,1.81,FALSE,6.31
+720515,Spicy Taco House,San Jose,14-10-2024,04:57,32,Large,Chicken Taco,3,4.93,8.25,1.58,FALSE,9.83
+134697,Casa del Taco,Los Angeles,22-04-2024,16:18,86,Regular,Fish Taco,3,19.37,6.75,0.71,FALSE,7.46
+561567,Spicy Taco House,Houston,24-03-2025,18:10,54,Regular,Veggie Taco,0,1.79,3,1.39,FALSE,4.39
+599365,Urban Tacos,San Jose,17-02-2025,14:54,39,Large,Fish Taco,3,6.93,8.25,1.59,FALSE,9.84
+555851,Taco Fiesta,Phoenix,14-12-2024,14:37,58,Large,Pork Taco,5,23.92,10.75,0.49,TRUE,11.24
+657101,Casa del Taco,Dallas,19-04-2025,04:16,44,Large,Veggie Taco,2,20.16,7,1.28,TRUE,8.28
+712553,Taco Time Express,San Jose,06-07-2024,19:25,85,Regular,Pork Taco,2,17.1,5.5,4.97,TRUE,10.47
+428487,The Taco Stand,New York,07-01-2024,14:00,18,Regular,Fish Taco,0,13.37,3,3.43,TRUE,6.43
+468591,Taco Haven,Phoenix,14-07-2024,15:41,34,Regular,Beef Taco,4,2.75,8,4.69,TRUE,12.69
+788500,Taco Haven,San Antonio,10-05-2025,14:43,25,Regular,Beef Taco,4,3.68,8,3.28,TRUE,11.28
+779378,La Vida Taco,Chicago,27-03-2024,02:18,33,Large,Veggie Taco,3,16.68,8.25,0.23,FALSE,8.48
+575470,Urban Tacos,Dallas,08-09-2024,04:41,42,Regular,Beef Taco,2,19.54,5.5,1.91,TRUE,7.41
+448813,Taco Fiesta,Phoenix,24-07-2024,13:42,32,Large,Beef Taco,3,24.5,8.25,0.6,FALSE,8.85
+511707,Spicy Taco House,San Jose,25-03-2024,05:17,28,Large,Chicken Taco,4,16.26,9.5,2.74,FALSE,12.24
+850151,Urban Tacos,Los Angeles,28-01-2024,01:51,19,Regular,Pork Taco,5,6.64,9.25,2.23,TRUE,11.48
+621877,Spicy Taco House,New York,30-01-2024,09:18,59,Large,Chicken Taco,5,8.58,10.75,1.17,FALSE,11.92
+103883,The Taco Stand,San Jose,06-01-2025,09:09,65,Large,Beef Taco,4,6.03,9.5,1.15,FALSE,10.65
+822742,Grande Tacos,Los Angeles,16-03-2025,14:11,78,Large,Veggie Taco,5,7.92,10.75,0.28,TRUE,11.03
+778506,El Taco Loco,San Diego,19-02-2025,06:09,53,Regular,Fish Taco,2,16.37,5.5,0.53,FALSE,6.03
+141241,Taco Time Express,Houston,20-08-2024,03:20,59,Regular,Veggie Taco,3,2.58,6.75,1.9,FALSE,8.65
+871043,Taco Haven,Chicago,28-01-2024,17:27,34,Regular,Pork Taco,1,12.49,4.25,0.31,TRUE,4.56
+666809,Urban Tacos,San Jose,18-02-2025,17:21,67,Regular,Beef Taco,2,1.87,5.5,2.36,FALSE,7.86
+144894,Taco Time Express,Los Angeles,13-06-2024,09:58,76,Large,Pork Taco,1,18.66,5.75,0.7,FALSE,6.45
+175532,Taco Fiesta,Chicago,14-01-2025,17:39,12,Large,Pork Taco,0,6.45,4.5,1.95,FALSE,6.45
+115063,Spicy Taco House,New York,26-08-2024,17:10,22,Large,Pork Taco,1,20.97,5.75,0.19,FALSE,5.94
+957179,El Taco Loco,Los Angeles,21-01-2025,03:25,86,Regular,Beef Taco,1,10.94,4.25,2.43,FALSE,6.68
+873774,Taco Time Express,San Diego,03-04-2024,19:55,83,Regular,Veggie Taco,1,19.22,4.25,1.78,FALSE,6.03
+451801,El Taco Loco,Los Angeles,31-07-2024,17:44,28,Large,Chicken Taco,5,9.56,10.75,0.5,FALSE,11.25
+355479,La Vida Taco,New York,13-04-2024,14:12,22,Large,Chicken Taco,0,22.05,4.5,0.4,TRUE,4.9
+107574,Spicy Taco House,Los Angeles,21-05-2025,05:36,85,Large,Fish Taco,5,20.28,10.75,2.32,FALSE,13.07
+825990,Spicy Taco House,Houston,21-04-2024,03:21,44,Large,Fish Taco,1,23.48,5.75,3.05,TRUE,8.8
+139448,La Vida Taco,Chicago,23-01-2025,06:34,88,Regular,Veggie Taco,2,10.76,5.5,1.67,FALSE,7.17
+301224,El Taco Loco,Austin,15-03-2024,07:40,89,Large,Pork Taco,4,5.87,9.5,2.31,FALSE,11.81
+791354,Taco Haven,Phoenix,11-02-2024,05:16,34,Regular,Chicken Taco,5,21.17,9.25,4.56,TRUE,13.81
+621682,Spicy Taco House,Chicago,03-02-2024,11:43,16,Large,Veggie Taco,1,11.15,5.75,1.67,TRUE,7.42
+944264,Grande Tacos,New York,22-03-2024,02:33,16,Regular,Chicken Taco,0,12.38,3,0.35,FALSE,3.35
+346729,Grande Tacos,San Antonio,26-03-2025,07:32,51,Large,Chicken Taco,5,17.08,10.75,0.98,FALSE,11.73
+916814,El Taco Loco,San Diego,25-06-2024,22:09,22,Regular,Fish Taco,1,9.7,4.25,0.66,FALSE,4.91
+593869,La Vida Taco,San Jose,12-02-2024,04:57,65,Regular,Chicken Taco,4,11.65,8,1.16,FALSE,9.16
+243030,Grande Tacos,Houston,05-05-2025,21:43,55,Large,Chicken Taco,2,3.62,7,2.08,FALSE,9.08
+162549,Urban Tacos,Chicago,27-03-2024,07:13,69,Large,Fish Taco,1,19.13,5.75,0.66,FALSE,6.41
+409499,La Vida Taco,Chicago,10-05-2025,13:10,88,Regular,Pork Taco,4,21.45,8,0.43,TRUE,8.43
+998602,The Taco Stand,San Jose,17-06-2024,02:46,85,Large,Fish Taco,2,0.86,7,1.28,FALSE,8.28
+358635,Taco Haven,San Diego,03-12-2024,06:58,84,Regular,Pork Taco,1,22.89,4.25,2.69,FALSE,6.94
+538065,Taco Fiesta,New York,31-12-2024,13:36,74,Regular,Fish Taco,4,10.16,8,2.43,FALSE,10.43
+830494,El Taco Loco,San Jose,19-01-2025,16:46,40,Regular,Pork Taco,0,17.48,3,2.03,TRUE,5.03
+328596,Spicy Taco House,San Diego,17-08-2024,17:55,40,Regular,Beef Taco,3,16.89,6.75,0.81,TRUE,7.56
+581592,La Vida Taco,San Antonio,19-01-2024,23:06,68,Large,Chicken Taco,5,10.43,10.75,2.37,FALSE,13.12
+488414,Grande Tacos,New York,02-05-2025,05:48,19,Large,Veggie Taco,4,1.3,9.5,1.28,FALSE,10.78
+382894,La Vida Taco,Austin,22-03-2025,19:03,36,Regular,Pork Taco,2,18.53,5.5,0.27,TRUE,5.77
+807424,Casa del Taco,New York,27-03-2024,04:33,59,Large,Fish Taco,4,1.5,9.5,1.1,FALSE,10.6
+779658,The Taco Stand,Los Angeles,11-03-2025,13:17,36,Regular,Veggie Taco,1,13.72,4.25,1.95,FALSE,6.2
+873199,La Vida Taco,Houston,24-06-2024,02:27,51,Large,Veggie Taco,4,17.17,9.5,0.83,FALSE,10.33
+166447,Casa del Taco,San Diego,17-12-2024,09:32,72,Regular,Fish Taco,5,13.53,9.25,2.48,FALSE,11.73
+406461,Grande Tacos,San Antonio,12-10-2024,22:44,18,Regular,Fish Taco,0,2.46,3,4.49,TRUE,7.49
+402380,El Taco Loco,Los Angeles,07-05-2024,23:27,45,Regular,Chicken Taco,3,4.19,6.75,0.61,FALSE,7.36
+757746,Taco Fiesta,Phoenix,19-11-2024,12:48,79,Regular,Fish Taco,2,10.79,5.5,2.21,FALSE,7.71
+122525,Urban Tacos,Houston,18-02-2024,21:27,12,Regular,Pork Taco,5,8.73,9.25,2.89,TRUE,12.14
+787614,Casa del Taco,San Jose,05-04-2025,20:58,77,Large,Fish Taco,2,14.4,7,4.49,TRUE,11.49
+421383,Spicy Taco House,Phoenix,25-06-2024,03:31,71,Large,Veggie Taco,0,4.13,4.5,0.85,FALSE,5.35
+274444,La Vida Taco,Chicago,19-02-2025,19:01,46,Regular,Chicken Taco,5,17.48,9.25,2,FALSE,11.25
+260940,Spicy Taco House,Houston,31-03-2024,19:29,15,Large,Pork Taco,1,11.3,5.75,1.85,TRUE,7.6
+315120,The Taco Stand,New York,03-09-2024,04:15,54,Regular,Veggie Taco,3,13.73,6.75,0.49,FALSE,7.24
+416208,El Taco Loco,New York,10-11-2024,05:35,73,Regular,Fish Taco,2,4.32,5.5,4.85,TRUE,10.35
+672675,The Taco Stand,San Diego,17-05-2025,17:30,47,Large,Veggie Taco,4,16.84,9.5,4,TRUE,13.5
+863933,Grande Tacos,San Diego,28-03-2024,05:42,71,Regular,Chicken Taco,5,14,9.25,0.92,FALSE,10.17
+521139,La Vida Taco,Houston,12-12-2024,09:32,55,Regular,Veggie Taco,0,15.4,3,0.59,FALSE,3.59
+652005,Taco Haven,Phoenix,01-06-2024,00:24,12,Regular,Pork Taco,3,17.09,6.75,4.79,TRUE,11.54
+636648,Taco Time Express,Houston,15-01-2025,22:56,50,Regular,Veggie Taco,3,4.12,6.75,2.56,FALSE,9.31
+487585,Taco Time Express,San Diego,10-01-2024,11:15,46,Large,Veggie Taco,2,24.45,7,2.62,FALSE,9.62
+191853,Taco Haven,San Jose,18-11-2024,19:31,66,Large,Chicken Taco,5,24.27,10.75,1.27,FALSE,12.02
+534313,Spicy Taco House,San Antonio,09-04-2025,10:19,21,Regular,Chicken Taco,2,12.13,5.5,2.6,FALSE,8.1
+451709,El Taco Loco,San Antonio,18-10-2024,20:54,21,Regular,Fish Taco,5,22.9,9.25,1.24,FALSE,10.49
+682813,Grande Tacos,San Antonio,16-04-2024,08:30,35,Regular,Fish Taco,2,14.07,5.5,0.13,FALSE,5.63
+966384,Urban Tacos,San Antonio,24-08-2024,01:22,73,Large,Chicken Taco,0,19.88,4.5,0.77,TRUE,5.27
+414750,Grande Tacos,Los Angeles,22-05-2025,19:57,46,Large,Chicken Taco,3,22.72,8.25,1.93,FALSE,10.18
+129824,El Taco Loco,Phoenix,17-01-2025,23:07,18,Large,Pork Taco,3,14.36,8.25,2.61,FALSE,10.86
+758501,Grande Tacos,Los Angeles,16-10-2024,20:59,75,Regular,Veggie Taco,1,14.75,4.25,0.44,FALSE,4.69
+583439,Spicy Taco House,San Diego,06-05-2024,20:17,16,Large,Veggie Taco,3,16.09,8.25,2.87,FALSE,11.12
+151081,Urban Tacos,Phoenix,15-02-2025,08:41,19,Regular,Chicken Taco,0,15.17,3,0.84,TRUE,3.84
+438277,Casa del Taco,Phoenix,29-07-2024,20:21,56,Regular,Pork Taco,4,9.11,8,0.43,FALSE,8.43
+243601,The Taco Stand,Phoenix,16-10-2024,17:29,72,Large,Veggie Taco,1,3.01,5.75,0.46,FALSE,6.21
+331854,Taco Haven,Austin,21-04-2025,11:08,77,Regular,Fish Taco,3,22.94,6.75,0.35,FALSE,7.1
+237606,Taco Fiesta,San Jose,27-09-2024,11:06,49,Large,Chicken Taco,3,22.3,8.25,1.79,FALSE,10.04
+900681,Casa del Taco,Chicago,24-08-2024,15:43,13,Regular,Chicken Taco,1,21.49,4.25,0.71,TRUE,4.96
+337580,Urban Tacos,Chicago,11-06-2024,23:43,26,Regular,Fish Taco,5,19.19,9.25,0.34,FALSE,9.59
+119719,Grande Tacos,Dallas,03-02-2024,00:34,35,Regular,Beef Taco,5,13.08,9.25,0.3,TRUE,9.55
+224698,Urban Tacos,New York,21-02-2024,10:56,48,Regular,Beef Taco,0,23.04,3,0.62,FALSE,3.62
+309740,Spicy Taco House,San Diego,23-01-2024,17:25,21,Regular,Veggie Taco,4,9.02,8,0.48,FALSE,8.48
+624953,La Vida Taco,Houston,27-01-2025,04:11,82,Regular,Beef Taco,4,19.2,8,1.59,FALSE,9.59
+850582,Taco Haven,Phoenix,13-05-2024,10:05,78,Regular,Beef Taco,1,23.05,4.25,2.55,FALSE,6.8
+597775,Casa del Taco,San Antonio,23-05-2024,18:59,66,Regular,Chicken Taco,2,24.54,5.5,1.27,FALSE,6.77
+639231,Taco Haven,Dallas,28-03-2024,15:35,50,Regular,Fish Taco,0,13.23,3,1.49,FALSE,4.49
+478798,Urban Tacos,Austin,01-02-2024,12:59,20,Large,Fish Taco,0,9.93,4.5,1.37,FALSE,5.87
+871934,Urban Tacos,San Jose,24-06-2024,10:35,80,Large,Veggie Taco,3,5.13,8.25,0.21,FALSE,8.46
+981913,Grande Tacos,San Diego,19-05-2024,06:20,11,Large,Beef Taco,3,11.23,8.25,3.29,TRUE,11.54
+189135,El Taco Loco,Chicago,02-11-2024,15:49,61,Regular,Chicken Taco,0,9.41,3,1,TRUE,4
+309991,La Vida Taco,Dallas,05-04-2024,08:27,39,Large,Fish Taco,2,19.24,7,2.3,FALSE,9.3
+722487,Urban Tacos,Dallas,03-10-2024,14:08,70,Large,Fish Taco,4,7.33,9.5,2.3,FALSE,11.8
+213284,El Taco Loco,Phoenix,15-01-2025,01:59,73,Regular,Chicken Taco,0,2.94,3,0.16,FALSE,3.16
+171542,Grande Tacos,New York,19-05-2024,02:35,58,Large,Chicken Taco,2,15.74,7,0.48,TRUE,7.48
+180234,The Taco Stand,San Jose,27-12-2024,23:16,35,Large,Fish Taco,3,12.87,8.25,1.63,FALSE,9.88
+948802,The Taco Stand,Austin,14-01-2024,17:23,14,Large,Beef Taco,3,11.53,8.25,4.26,TRUE,12.51
+564053,Grande Tacos,New York,26-01-2024,12:33,32,Large,Chicken Taco,3,11.05,8.25,0.94,FALSE,9.19
+507980,Grande Tacos,Los Angeles,17-03-2025,20:13,72,Large,Fish Taco,4,21.43,9.5,1.52,FALSE,11.02
+510396,Urban Tacos,San Jose,04-04-2025,01:52,58,Large,Veggie Taco,2,2,7,1.77,FALSE,8.77
+234425,Casa del Taco,San Diego,29-03-2025,13:56,13,Large,Fish Taco,0,10.99,4.5,4.96,TRUE,9.46
+531939,Casa del Taco,New York,08-07-2024,16:45,41,Regular,Veggie Taco,4,2.58,8,2.06,FALSE,10.06
+419723,El Taco Loco,San Diego,11-05-2024,20:54,12,Large,Beef Taco,3,16.62,8.25,2.11,TRUE,10.36
+639764,Taco Time Express,Phoenix,16-01-2024,20:19,70,Regular,Veggie Taco,3,14.47,6.75,0.97,FALSE,7.72
+202472,Grande Tacos,Los Angeles,08-06-2024,22:24,53,Large,Pork Taco,5,8.82,10.75,3.07,TRUE,13.82
+480983,Taco Time Express,Houston,20-01-2025,23:51,19,Regular,Veggie Taco,2,1.66,5.5,2.99,FALSE,8.49
+521556,Taco Haven,San Antonio,12-03-2024,10:13,84,Regular,Pork Taco,2,7.2,5.5,1.7,FALSE,7.2
+656860,Grande Tacos,Dallas,11-06-2024,21:49,54,Regular,Veggie Taco,4,20.2,8,1.3,FALSE,9.3
+666176,Casa del Taco,Houston,17-11-2024,19:22,61,Large,Pork Taco,4,11.6,9.5,3.82,TRUE,13.32
+289373,Taco Fiesta,Austin,24-05-2024,21:20,83,Large,Chicken Taco,5,24.07,10.75,2.23,FALSE,12.98
+589994,Urban Tacos,Austin,22-04-2025,05:39,65,Regular,Pork Taco,1,9.42,4.25,0.44,FALSE,4.69
+257782,Urban Tacos,Dallas,14-11-2024,15:48,50,Regular,Chicken Taco,3,7.04,6.75,0.86,FALSE,7.61
+268384,Urban Tacos,San Antonio,02-07-2024,09:46,61,Regular,Beef Taco,1,5.2,4.25,0.74,FALSE,4.99
+967412,Urban Tacos,San Jose,12-01-2025,00:10,81,Large,Fish Taco,5,22.69,10.75,1.01,TRUE,11.76
+385959,Spicy Taco House,New York,19-07-2024,16:51,45,Regular,Beef Taco,5,12.4,9.25,0.06,FALSE,9.31
+188006,Casa del Taco,San Antonio,19-08-2024,10:44,18,Large,Veggie Taco,5,16.61,10.75,0.27,FALSE,11.02
+980605,Spicy Taco House,Houston,27-03-2024,22:34,83,Regular,Pork Taco,5,20.81,9.25,2.85,FALSE,12.1
+650775,Urban Tacos,San Jose,11-03-2024,02:21,40,Regular,Veggie Taco,2,20.89,5.5,2.21,FALSE,7.71
+944986,Taco Haven,Dallas,18-06-2024,07:58,28,Regular,Chicken Taco,1,24.26,4.25,1.32,FALSE,5.57
+366659,La Vida Taco,New York,15-01-2025,20:56,78,Large,Beef Taco,2,13.87,7,1.42,FALSE,8.42
+358313,Urban Tacos,Chicago,08-10-2024,22:46,70,Large,Veggie Taco,0,16.31,4.5,2.72,FALSE,7.22
+136500,Taco Fiesta,Houston,15-07-2024,11:56,80,Large,Veggie Taco,5,23.98,10.75,1.09,FALSE,11.84
+951706,El Taco Loco,Austin,02-07-2024,14:28,66,Large,Beef Taco,3,23.22,8.25,2.75,FALSE,11
+415504,El Taco Loco,Houston,19-08-2024,00:21,36,Regular,Fish Taco,5,8.27,9.25,2.44,FALSE,11.69
+775733,Taco Time Express,New York,31-07-2024,20:24,20,Large,Fish Taco,5,10.62,10.75,2.52,FALSE,13.27
+852233,Taco Time Express,Los Angeles,04-05-2024,13:00,43,Regular,Veggie Taco,3,15.25,6.75,4.07,TRUE,10.82
+873624,Casa del Taco,San Jose,22-01-2024,05:51,16,Regular,Fish Taco,5,3.83,9.25,1.2,FALSE,10.45
+758816,Urban Tacos,San Diego,23-03-2025,05:51,20,Regular,Chicken Taco,1,13.15,4.25,4.85,TRUE,9.1
+970969,Spicy Taco House,San Antonio,14-11-2024,16:50,50,Large,Fish Taco,5,3.77,10.75,0.52,FALSE,11.27
+721826,Casa del Taco,Phoenix,03-06-2024,07:21,20,Large,Veggie Taco,1,10.14,5.75,1.13,FALSE,6.88
+975224,La Vida Taco,Houston,17-01-2024,02:31,12,Regular,Beef Taco,3,5.36,6.75,2.1,FALSE,8.85
+276953,Taco Fiesta,Dallas,25-04-2025,00:25,64,Large,Chicken Taco,0,23.97,4.5,0.51,FALSE,5.01
+694797,El Taco Loco,New York,12-02-2025,10:19,65,Large,Fish Taco,0,6,4.5,0.61,FALSE,5.11
+952924,Urban Tacos,Phoenix,18-01-2025,19:57,58,Regular,Fish Taco,1,15.2,4.25,4.98,TRUE,9.23
+396712,Taco Haven,Dallas,20-05-2024,02:20,62,Regular,Beef Taco,2,24.42,5.5,0.71,FALSE,6.21
+572883,Taco Haven,San Diego,28-03-2025,18:06,68,Regular,Beef Taco,3,3.76,6.75,0.97,FALSE,7.72
+826687,Taco Time Express,Houston,24-10-2024,20:52,64,Large,Beef Taco,0,14.15,4.5,0.16,FALSE,4.66
+346249,Grande Tacos,San Diego,15-04-2025,23:38,86,Regular,Beef Taco,2,12.86,5.5,1.14,FALSE,6.64
+513869,Casa del Taco,Chicago,10-03-2025,14:57,15,Regular,Veggie Taco,1,12.84,4.25,2.79,FALSE,7.04
+590822,Spicy Taco House,Los Angeles,03-09-2024,11:13,77,Large,Chicken Taco,2,3.36,7,0.13,FALSE,7.13
+234082,Grande Tacos,Phoenix,07-10-2024,01:55,65,Large,Veggie Taco,4,20.82,9.5,2.78,FALSE,12.28
+642085,Casa del Taco,Dallas,08-05-2024,03:31,50,Large,Chicken Taco,4,21.4,9.5,1.97,FALSE,11.47
+936994,Grande Tacos,New York,26-05-2024,17:43,29,Regular,Chicken Taco,1,1.38,4.25,1.3,TRUE,5.55
+840255,Grande Tacos,Dallas,31-03-2024,02:50,73,Regular,Fish Taco,2,24.73,5.5,2.8,TRUE,8.3
+579995,Grande Tacos,Los Angeles,24-04-2024,23:55,25,Large,Beef Taco,1,21.77,5.75,0.54,FALSE,6.29
+276470,The Taco Stand,Phoenix,13-03-2025,11:41,84,Regular,Pork Taco,0,13.39,3,1.71,FALSE,4.71
+536646,El Taco Loco,Houston,21-01-2025,21:27,22,Large,Beef Taco,2,17.19,7,2.04,FALSE,9.04
+513316,Casa del Taco,San Antonio,23-03-2024,09:17,51,Regular,Beef Taco,0,11.78,3,3.54,TRUE,6.54
+603164,Grande Tacos,Phoenix,06-04-2025,12:46,10,Large,Beef Taco,5,15.75,10.75,2.27,TRUE,13.02
+867080,La Vida Taco,Chicago,13-06-2024,04:09,16,Large,Veggie Taco,0,18.72,4.5,1.64,FALSE,6.14
+731548,Taco Time Express,Los Angeles,05-11-2024,19:15,42,Regular,Chicken Taco,3,2.69,6.75,2.56,FALSE,9.31
+270855,Taco Time Express,Dallas,09-08-2024,07:35,29,Regular,Veggie Taco,3,20.13,6.75,2.21,FALSE,8.96
+425164,La Vida Taco,Chicago,05-10-2024,21:04,22,Large,Pork Taco,1,12.5,5.75,4.43,TRUE,10.18
+599583,Urban Tacos,San Antonio,11-04-2025,07:09,64,Regular,Fish Taco,2,15.54,5.5,1.3,FALSE,6.8
+546711,El Taco Loco,New York,02-02-2025,17:22,53,Large,Chicken Taco,5,17.31,10.75,0.78,TRUE,11.53
+619383,The Taco Stand,Austin,06-03-2024,05:18,47,Large,Fish Taco,0,22.73,4.5,1.43,FALSE,5.93
+255825,Spicy Taco House,Phoenix,12-07-2024,03:14,76,Large,Veggie Taco,4,1.67,9.5,0.23,FALSE,9.73
+147285,The Taco Stand,Los Angeles,31-01-2025,15:14,64,Large,Beef Taco,3,16.69,8.25,1.71,FALSE,9.96
+365688,Casa del Taco,Phoenix,30-03-2025,19:46,20,Regular,Beef Taco,5,16.71,9.25,0.9,TRUE,10.15
+291059,Taco Time Express,New York,05-03-2024,16:38,63,Large,Veggie Taco,4,18.24,9.5,2.27,FALSE,11.77
+571804,La Vida Taco,Phoenix,22-09-2024,02:56,33,Regular,Chicken Taco,0,18.8,3,3.02,TRUE,6.02
+806120,El Taco Loco,Dallas,19-02-2025,01:29,12,Regular,Fish Taco,0,0.83,3,1.97,FALSE,4.97
+582515,Taco Time Express,San Antonio,13-01-2025,01:09,48,Large,Fish Taco,2,2.65,7,0.41,FALSE,7.41
+300070,El Taco Loco,New York,26-05-2024,04:41,13,Regular,Fish Taco,5,4.06,9.25,1.21,TRUE,10.46
+982995,The Taco Stand,Houston,07-03-2024,20:54,48,Large,Chicken Taco,3,10.84,8.25,0.35,FALSE,8.6
+259826,Grande Tacos,San Jose,01-01-2025,05:11,12,Large,Pork Taco,1,5.43,5.75,1.71,FALSE,7.46
+974343,Taco Time Express,New York,16-09-2024,07:24,11,Regular,Fish Taco,3,21.29,6.75,2.21,FALSE,8.96
+724783,The Taco Stand,Phoenix,29-01-2024,18:03,72,Large,Fish Taco,4,14.98,9.5,1.83,FALSE,11.33
+811634,Grande Tacos,Houston,17-02-2024,03:37,77,Regular,Fish Taco,4,8.24,8,0.32,TRUE,8.32
+779792,Taco Time Express,San Jose,31-03-2024,19:56,73,Large,Fish Taco,5,11.19,10.75,0.81,TRUE,11.56
+861485,Taco Haven,San Jose,24-09-2024,01:46,66,Regular,Pork Taco,1,14.9,4.25,2.05,FALSE,6.3
+731347,Grande Tacos,Chicago,15-08-2024,21:15,59,Large,Veggie Taco,3,20.09,8.25,2.53,FALSE,10.78
+752048,Taco Haven,Phoenix,07-03-2024,22:44,71,Regular,Chicken Taco,1,4.33,4.25,1.48,FALSE,5.73
+932026,Taco Time Express,San Jose,23-08-2024,20:28,40,Regular,Pork Taco,0,24.98,3,1.08,FALSE,4.08
+373477,Casa del Taco,Chicago,15-05-2024,16:55,74,Regular,Beef Taco,2,11.05,5.5,1.85,FALSE,7.35
+226550,The Taco Stand,Houston,12-01-2025,18:30,43,Large,Veggie Taco,0,19.37,4.5,2.79,TRUE,7.29
+258522,The Taco Stand,San Antonio,21-03-2024,21:20,16,Large,Fish Taco,0,24.38,4.5,2.34,FALSE,6.84
+739270,El Taco Loco,Austin,02-02-2024,14:22,74,Regular,Chicken Taco,5,3.39,9.25,0.62,FALSE,9.87
+479205,Spicy Taco House,Phoenix,08-12-2024,22:29,74,Large,Beef Taco,1,16.35,5.75,1.67,TRUE,7.42
+244464,El Taco Loco,Houston,07-12-2024,01:34,63,Regular,Chicken Taco,3,8.86,6.75,2.53,TRUE,9.28
+189374,Urban Tacos,San Diego,18-11-2024,08:19,56,Regular,Chicken Taco,4,10.83,8,0.68,FALSE,8.68
+940715,Taco Time Express,Dallas,13-11-2024,22:04,68,Large,Beef Taco,3,4.07,8.25,0.03,FALSE,8.28
+945411,The Taco Stand,Los Angeles,06-03-2024,20:22,53,Large,Fish Taco,1,11.13,5.75,1.18,FALSE,6.93
+138895,Spicy Taco House,San Antonio,14-02-2024,21:39,90,Large,Fish Taco,3,22.2,8.25,2.1,FALSE,10.35
+419105,Casa del Taco,San Diego,07-01-2024,03:18,45,Regular,Fish Taco,3,16.28,6.75,4.44,TRUE,11.19
+754688,La Vida Taco,San Jose,25-09-2024,03:56,61,Regular,Veggie Taco,0,1.41,3,1,FALSE,4
+860321,Spicy Taco House,Austin,24-02-2025,01:03,46,Regular,Beef Taco,4,14.02,8,1.56,FALSE,9.56
+893820,Spicy Taco House,New York,22-01-2024,15:55,79,Large,Chicken Taco,2,18.3,7,2.96,FALSE,9.96
+215806,Taco Fiesta,San Diego,20-07-2024,18:12,90,Large,Beef Taco,0,19.04,4.5,4.71,TRUE,9.21
+570534,Urban Tacos,San Antonio,05-01-2024,01:11,68,Large,Chicken Taco,5,24.73,10.75,1.7,FALSE,12.45
+758237,The Taco Stand,San Antonio,30-06-2024,15:03,54,Large,Veggie Taco,5,19.73,10.75,3.57,TRUE,14.32
+805097,Spicy Taco House,Dallas,07-02-2025,15:17,41,Regular,Veggie Taco,4,14.77,8,2.47,FALSE,10.47
+478816,Grande Tacos,Los Angeles,23-04-2024,19:57,64,Large,Beef Taco,0,2.02,4.5,2.67,FALSE,7.17
+599387,Taco Haven,San Jose,01-03-2024,15:22,57,Large,Pork Taco,4,13.21,9.5,1.18,FALSE,10.68
+376502,La Vida Taco,San Jose,09-05-2025,08:29,64,Large,Fish Taco,5,24.35,10.75,2.47,FALSE,13.22
+251357,The Taco Stand,Chicago,11-01-2025,12:39,68,Regular,Pork Taco,4,3.39,8,1.06,TRUE,9.06
+596349,Taco Fiesta,Chicago,10-03-2025,05:00,57,Regular,Pork Taco,3,3.2,6.75,1.11,FALSE,7.86
+403657,Taco Fiesta,Austin,29-04-2024,01:48,25,Large,Veggie Taco,2,7.93,7,1.46,FALSE,8.46
+929637,Spicy Taco House,Chicago,02-04-2025,23:23,63,Regular,Veggie Taco,2,5.78,5.5,2.46,FALSE,7.96
+612537,Taco Fiesta,Los Angeles,01-03-2025,06:50,54,Regular,Beef Taco,3,12.29,6.75,1.55,TRUE,8.3
+574348,Casa del Taco,Dallas,04-01-2025,02:53,87,Regular,Chicken Taco,4,16.09,8,3.81,TRUE,11.81
+799631,Grande Tacos,Chicago,09-09-2024,14:28,21,Large,Fish Taco,1,22.56,5.75,1.02,FALSE,6.77
+148045,Grande Tacos,Phoenix,16-05-2025,16:45,21,Regular,Beef Taco,4,15.94,8,2.31,FALSE,10.31
+423850,The Taco Stand,Los Angeles,15-05-2025,03:25,81,Regular,Chicken Taco,4,13.77,8,2.27,FALSE,10.27
+697944,The Taco Stand,Houston,04-01-2025,14:13,74,Regular,Beef Taco,5,23.44,9.25,0.9,TRUE,10.15
+119895,Urban Tacos,Houston,09-07-2024,12:28,84,Large,Beef Taco,4,15.37,9.5,1.21,FALSE,10.71
+147168,Grande Tacos,New York,21-09-2024,01:14,65,Regular,Fish Taco,0,21.56,3,1.59,TRUE,4.59
+369670,El Taco Loco,Los Angeles,18-03-2024,03:42,79,Regular,Veggie Taco,1,4.98,4.25,2.3,FALSE,6.55
+261719,Urban Tacos,Dallas,11-05-2024,09:56,17,Large,Chicken Taco,0,17.98,4.5,1.49,TRUE,5.99
+203540,Casa del Taco,Chicago,16-11-2024,15:34,51,Large,Fish Taco,0,1.77,4.5,1.2,TRUE,5.7
+726004,La Vida Taco,Houston,17-01-2025,21:48,75,Large,Beef Taco,2,1.99,7,1.39,FALSE,8.39
+526850,El Taco Loco,San Jose,23-01-2024,10:51,62,Regular,Beef Taco,2,14.07,5.5,1.76,FALSE,7.26
+206440,Taco Haven,Austin,21-05-2025,01:47,26,Large,Pork Taco,3,11.43,8.25,2.54,FALSE,10.79
+624741,Taco Haven,Chicago,16-10-2024,22:54,79,Regular,Chicken Taco,4,23.84,8,2.88,FALSE,10.88
+682119,Grande Tacos,New York,01-01-2024,18:39,69,Large,Chicken Taco,0,1.97,4.5,2.77,FALSE,7.27
+386578,La Vida Taco,Phoenix,22-10-2024,06:34,54,Regular,Pork Taco,4,7.39,8,0.48,FALSE,8.48
+660033,La Vida Taco,Los Angeles,21-08-2024,12:18,21,Large,Beef Taco,1,18.26,5.75,3,FALSE,8.75
+552945,Taco Haven,San Antonio,27-01-2025,02:31,50,Large,Veggie Taco,5,11.59,10.75,0.74,FALSE,11.49
+437262,Casa del Taco,Houston,23-12-2024,03:16,86,Large,Beef Taco,5,3.78,10.75,2.77,FALSE,13.52
+738359,Grande Tacos,New York,08-01-2024,10:33,32,Large,Pork Taco,5,17.73,10.75,2.29,FALSE,13.04
+664271,El Taco Loco,Los Angeles,22-02-2025,09:09,13,Large,Beef Taco,2,24.31,7,1.88,TRUE,8.88
+730520,Casa del Taco,Dallas,17-05-2024,14:59,11,Regular,Fish Taco,2,23.44,5.5,1.33,FALSE,6.83
+332281,Taco Fiesta,Phoenix,04-10-2024,22:16,34,Regular,Pork Taco,5,7.93,9.25,2.15,FALSE,11.4
+345637,Grande Tacos,San Diego,29-01-2024,13:55,45,Large,Pork Taco,1,0.67,5.75,2.95,FALSE,8.7
+769448,Taco Time Express,Los Angeles,03-08-2024,10:07,82,Large,Chicken Taco,4,5.25,9.5,3.69,TRUE,13.19
+804827,La Vida Taco,San Antonio,16-05-2024,08:05,18,Regular,Beef Taco,1,6.86,4.25,1.71,FALSE,5.96
+339038,The Taco Stand,Phoenix,29-05-2024,00:22,12,Large,Pork Taco,3,0.55,8.25,1.28,FALSE,9.53
+805796,Taco Fiesta,San Diego,01-12-2024,23:16,62,Large,Beef Taco,5,13.2,10.75,2.48,TRUE,13.23
+642383,Taco Fiesta,Houston,06-02-2024,11:29,45,Large,Pork Taco,3,8.25,8.25,1.18,FALSE,9.43
+450964,El Taco Loco,San Antonio,20-01-2024,16:58,38,Large,Beef Taco,1,5.32,5.75,1.65,TRUE,7.4
+165896,El Taco Loco,New York,07-01-2025,19:13,65,Regular,Pork Taco,5,23.41,9.25,2.52,FALSE,11.77
+359159,El Taco Loco,San Jose,04-07-2024,03:20,53,Regular,Veggie Taco,4,19.96,8,2.83,FALSE,10.83
+913432,La Vida Taco,San Antonio,06-12-2024,14:46,22,Large,Pork Taco,0,2.6,4.5,0.18,FALSE,4.68
+134963,Taco Time Express,San Diego,20-02-2024,12:12,26,Regular,Fish Taco,0,7.89,3,1.88,FALSE,4.88
+168986,El Taco Loco,New York,10-03-2025,09:19,16,Large,Fish Taco,3,2.85,8.25,2.26,FALSE,10.51
+344435,La Vida Taco,San Antonio,09-01-2024,05:43,68,Large,Fish Taco,3,22.06,8.25,1.86,FALSE,10.11
+456113,Taco Fiesta,San Jose,05-02-2025,17:32,52,Regular,Beef Taco,0,0.8,3,2.14,FALSE,5.14
+721686,Taco Haven,San Antonio,07-04-2024,20:28,75,Large,Veggie Taco,3,12.29,8.25,3.1,TRUE,11.35
+294954,Taco Haven,Chicago,04-02-2024,05:32,17,Regular,Veggie Taco,4,11.18,8,4.8,TRUE,12.8
+891018,Casa del Taco,Phoenix,29-03-2025,08:19,79,Regular,Chicken Taco,3,8.06,6.75,1.71,TRUE,8.46
+486746,Taco Fiesta,Austin,31-03-2025,12:01,28,Regular,Chicken Taco,4,20.57,8,1.68,FALSE,9.68
+157259,Taco Time Express,San Diego,31-05-2024,18:39,35,Regular,Beef Taco,2,5.14,5.5,1.43,FALSE,6.93
+825447,Grande Tacos,San Antonio,14-09-2024,04:59,84,Large,Pork Taco,2,10.76,7,0.81,TRUE,7.81
+576370,Taco Fiesta,San Jose,19-06-2024,10:01,10,Regular,Chicken Taco,3,15.79,6.75,0.72,FALSE,7.47
+870269,Casa del Taco,Dallas,08-06-2024,11:22,61,Regular,Beef Taco,2,0.74,5.5,1.79,TRUE,7.29
+681636,El Taco Loco,Chicago,13-08-2024,16:43,66,Regular,Pork Taco,2,1.58,5.5,0.09,FALSE,5.59
+307434,Urban Tacos,Chicago,19-06-2024,01:25,43,Regular,Veggie Taco,4,6.53,8,0.59,FALSE,8.59
+284630,Urban Tacos,Los Angeles,17-01-2024,07:21,27,Large,Beef Taco,2,23.43,7,0.92,FALSE,7.92
+351815,Casa del Taco,San Diego,13-05-2024,02:22,77,Large,Beef Taco,0,4.04,4.5,2.77,FALSE,7.27
+933511,Taco Haven,Houston,17-02-2025,15:32,58,Large,Veggie Taco,4,11.02,9.5,1.91,FALSE,11.41
+148439,La Vida Taco,San Antonio,26-05-2024,21:07,78,Large,Chicken Taco,2,6.56,7,3.15,TRUE,10.15
+393678,Spicy Taco House,Austin,29-03-2025,16:04,72,Regular,Beef Taco,3,19.88,6.75,3.07,TRUE,9.82
+275566,The Taco Stand,Dallas,16-05-2025,01:00,75,Large,Fish Taco,4,11.87,9.5,0.97,FALSE,10.47
+492040,The Taco Stand,San Jose,19-01-2025,07:35,70,Large,Pork Taco,3,16.13,8.25,3.95,TRUE,12.2
+781298,Taco Fiesta,Houston,19-06-2024,12:15,35,Large,Chicken Taco,3,5.86,8.25,1.28,FALSE,9.53
+495400,La Vida Taco,Chicago,17-10-2024,13:51,42,Regular,Chicken Taco,0,7.73,3,1.56,FALSE,4.56
+341358,La Vida Taco,New York,27-12-2024,08:56,75,Large,Fish Taco,3,11.95,8.25,1.23,FALSE,9.48
+943584,Grande Tacos,San Diego,31-07-2024,01:27,58,Regular,Chicken Taco,3,6.23,6.75,1.94,FALSE,8.69
+476536,El Taco Loco,Phoenix,24-01-2025,17:34,75,Regular,Veggie Taco,1,2.91,4.25,0.21,FALSE,4.46
+140140,The Taco Stand,Houston,16-09-2024,05:41,35,Large,Veggie Taco,2,18.76,7,2.31,FALSE,9.31
+986516,Urban Tacos,Houston,14-04-2025,04:00,27,Large,Beef Taco,2,7.41,7,1.04,FALSE,8.04
+523426,Taco Time Express,San Antonio,23-05-2025,23:50,11,Large,Pork Taco,1,21.7,5.75,0.68,FALSE,6.43
+858472,Taco Haven,San Jose,30-06-2024,12:54,76,Large,Fish Taco,2,19.9,7,1.57,TRUE,8.57
+296971,Taco Time Express,Dallas,11-06-2024,18:56,66,Large,Pork Taco,0,9.68,4.5,1.73,FALSE,6.23
+234580,Urban Tacos,New York,23-01-2025,04:57,55,Large,Chicken Taco,3,10.93,8.25,2.26,FALSE,10.51
+899897,The Taco Stand,Phoenix,10-09-2024,06:33,85,Regular,Pork Taco,0,23.09,3,0.46,FALSE,3.46
+446292,La Vida Taco,San Antonio,17-04-2025,02:54,83,Large,Fish Taco,1,23.74,5.75,0.19,FALSE,5.94
+505205,Taco Haven,San Jose,25-03-2024,09:09,52,Large,Veggie Taco,0,4.7,4.5,2.02,FALSE,6.52
+286264,Taco Fiesta,San Antonio,14-01-2025,12:24,13,Regular,Chicken Taco,0,22.83,3,1.16,FALSE,4.16
+315893,Taco Haven,Phoenix,11-02-2025,07:26,18,Large,Beef Taco,2,13.2,7,0.52,FALSE,7.52
+530819,Taco Time Express,Chicago,27-03-2024,00:25,26,Large,Fish Taco,5,2.18,10.75,2.87,FALSE,13.62
+316509,Spicy Taco House,Houston,28-08-2024,14:17,65,Large,Chicken Taco,4,14.59,9.5,0.93,FALSE,10.43
+312832,The Taco Stand,San Jose,01-08-2024,22:35,35,Regular,Chicken Taco,3,2.07,6.75,1.2,FALSE,7.95
+946794,Taco Haven,Austin,12-09-2024,10:58,82,Large,Fish Taco,3,14.62,8.25,2.21,FALSE,10.46
+401897,Grande Tacos,San Diego,19-08-2024,00:50,60,Regular,Fish Taco,1,4.9,4.25,1.85,FALSE,6.1
+553065,Grande Tacos,Dallas,22-05-2024,11:38,82,Regular,Fish Taco,5,23.67,9.25,0.72,FALSE,9.97
+265603,Urban Tacos,Austin,14-08-2024,17:12,18,Regular,Fish Taco,3,24.81,6.75,1.66,FALSE,8.41
+486643,El Taco Loco,Los Angeles,26-01-2025,18:36,51,Large,Fish Taco,1,6.69,5.75,2.53,TRUE,8.28
+584617,Taco Fiesta,Los Angeles,11-05-2025,05:20,69,Large,Veggie Taco,5,10.28,10.75,0.97,TRUE,11.72
+139609,Taco Fiesta,Phoenix,30-03-2024,01:50,27,Large,Fish Taco,3,11.8,8.25,0.41,TRUE,8.66
+788938,Taco Haven,San Jose,18-04-2024,22:33,70,Large,Chicken Taco,1,21.04,5.75,1.82,FALSE,7.57
+285846,Urban Tacos,Los Angeles,19-02-2025,06:40,60,Regular,Beef Taco,5,19.21,9.25,2.03,FALSE,11.28
+260952,Grande Tacos,San Diego,18-05-2024,05:02,37,Regular,Pork Taco,1,11.33,4.25,0.24,TRUE,4.49
+765625,The Taco Stand,Los Angeles,30-10-2024,09:39,49,Large,Beef Taco,4,0.61,9.5,2.32,FALSE,11.82
+904377,Taco Haven,Houston,17-10-2024,23:53,40,Regular,Beef Taco,0,10.83,3,2.97,FALSE,5.97
+453492,Taco Haven,Los Angeles,20-06-2024,07:40,22,Regular,Chicken Taco,0,10.68,3,0.32,FALSE,3.32
+443032,Casa del Taco,Austin,01-05-2025,20:08,34,Regular,Pork Taco,3,23.5,6.75,0.36,FALSE,7.11
+324164,El Taco Loco,San Diego,08-09-2024,04:00,32,Regular,Fish Taco,5,8.25,9.25,1.95,TRUE,11.2
+581061,Taco Haven,Los Angeles,04-08-2024,06:49,89,Large,Beef Taco,0,22.19,4.5,2.06,TRUE,6.56
+904829,La Vida Taco,San Jose,20-03-2024,01:56,78,Regular,Veggie Taco,0,15.2,3,2.94,FALSE,5.94
+830139,Taco Time Express,Chicago,14-09-2024,21:47,32,Large,Fish Taco,0,8.71,4.5,3.04,TRUE,7.54
+713455,Grande Tacos,Dallas,31-01-2025,22:13,39,Regular,Chicken Taco,0,15.6,3,2.69,FALSE,5.69
+423851,Taco Haven,Dallas,08-07-2024,04:01,89,Regular,Beef Taco,1,9.68,4.25,0.89,FALSE,5.14
+259038,Taco Time Express,Houston,13-05-2025,16:28,14,Regular,Pork Taco,3,18.61,6.75,0.99,FALSE,7.74
+391636,Casa del Taco,New York,08-02-2025,13:46,63,Large,Beef Taco,1,21.25,5.75,1.66,TRUE,7.41
+354016,Taco Haven,Austin,12-02-2024,00:00,41,Regular,Pork Taco,3,13.28,6.75,0.55,FALSE,7.3
+760374,Taco Fiesta,Los Angeles,16-01-2025,20:52,18,Regular,Beef Taco,5,24.8,9.25,2.81,FALSE,12.06
+231660,El Taco Loco,Chicago,05-04-2025,07:26,80,Regular,Chicken Taco,4,2.42,8,3.62,TRUE,11.62
+426592,Spicy Taco House,Houston,09-07-2024,05:43,64,Regular,Pork Taco,1,7.93,4.25,1.73,FALSE,5.98
+766478,Taco Haven,Phoenix,08-01-2025,17:40,20,Large,Fish Taco,3,4.61,8.25,1.32,FALSE,9.57
+629837,La Vida Taco,Dallas,01-05-2024,01:47,71,Regular,Fish Taco,3,21.42,6.75,2.28,FALSE,9.03
+414815,La Vida Taco,Austin,28-04-2024,16:22,80,Regular,Veggie Taco,3,11.86,6.75,2.27,TRUE,9.02
+493370,The Taco Stand,San Antonio,08-01-2025,11:35,19,Large,Chicken Taco,5,12,10.75,0.46,FALSE,11.21
+298837,Taco Fiesta,New York,23-01-2025,21:43,57,Large,Fish Taco,3,23.54,8.25,2.91,FALSE,11.16
+491270,Taco Time Express,San Jose,27-08-2024,02:00,85,Regular,Fish Taco,0,24.82,3,0.37,FALSE,3.37
+693083,Spicy Taco House,Houston,04-12-2024,21:10,42,Large,Pork Taco,5,12.47,10.75,2.07,FALSE,12.82
+830286,Taco Fiesta,Dallas,25-11-2024,08:41,41,Regular,Fish Taco,0,23.08,3,1.08,FALSE,4.08
+840880,Taco Fiesta,Chicago,21-07-2024,23:33,87,Large,Chicken Taco,2,6.56,7,2.89,TRUE,9.89
+794791,Spicy Taco House,New York,31-03-2024,16:01,21,Large,Fish Taco,5,14.86,10.75,4.5,TRUE,15.25
+643725,Taco Haven,Dallas,08-05-2024,19:10,64,Large,Veggie Taco,4,24.21,9.5,1.98,FALSE,11.48
+501382,La Vida Taco,Phoenix,15-11-2024,16:56,21,Regular,Pork Taco,2,20.45,5.5,0.81,FALSE,6.31
+319703,Taco Time Express,Phoenix,05-01-2024,23:40,31,Large,Beef Taco,0,2.21,4.5,2.09,FALSE,6.59
+650462,Taco Time Express,Phoenix,30-11-2024,17:28,31,Regular,Veggie Taco,1,17.75,4.25,0.99,TRUE,5.24
+290824,The Taco Stand,Los Angeles,16-12-2024,00:55,82,Regular,Chicken Taco,1,1.95,4.25,0.55,FALSE,4.8
+896041,Taco Haven,Phoenix,13-11-2024,12:26,66,Regular,Chicken Taco,0,7.68,3,1.13,FALSE,4.13
+390206,El Taco Loco,San Diego,24-01-2024,01:01,84,Regular,Fish Taco,3,16.98,6.75,0.3,FALSE,7.05
+164022,Urban Tacos,New York,28-03-2025,09:34,15,Regular,Chicken Taco,4,19.9,8,1.13,FALSE,9.13
+645337,Urban Tacos,San Jose,02-01-2025,13:40,53,Large,Veggie Taco,2,17.21,7,1.03,FALSE,8.03
+430536,Taco Haven,San Diego,05-11-2024,12:02,58,Regular,Veggie Taco,2,20.25,5.5,0.01,FALSE,5.51
+832229,Taco Time Express,Chicago,20-01-2024,22:43,87,Regular,Pork Taco,2,23.8,5.5,3.76,TRUE,9.26
+360610,Casa del Taco,San Jose,25-04-2025,06:54,70,Large,Chicken Taco,0,24.66,4.5,2.87,FALSE,7.37
+952092,Casa del Taco,New York,07-05-2025,06:27,56,Regular,Veggie Taco,5,11.39,9.25,1.82,FALSE,11.07
+519603,La Vida Taco,Los Angeles,27-09-2024,13:24,64,Large,Beef Taco,5,9.93,10.75,1.82,FALSE,12.57
+846525,Spicy Taco House,Austin,20-03-2025,04:51,74,Regular,Chicken Taco,3,20.02,6.75,0.9,FALSE,7.65
+805756,The Taco Stand,San Jose,10-05-2024,12:43,67,Regular,Fish Taco,5,13.75,9.25,0.73,FALSE,9.98
+278711,El Taco Loco,Los Angeles,03-12-2024,19:00,13,Regular,Veggie Taco,3,19.27,6.75,0.66,FALSE,7.41
+370143,Grande Tacos,Los Angeles,15-04-2024,10:40,78,Large,Beef Taco,5,8.65,10.75,0.67,FALSE,11.42
+703950,La Vida Taco,Los Angeles,15-05-2025,04:46,53,Large,Fish Taco,5,16.23,10.75,1.69,FALSE,12.44
+997728,Taco Time Express,Houston,22-06-2024,15:17,43,Regular,Veggie Taco,0,3.23,3,1.7,TRUE,4.7
+720967,Taco Haven,Los Angeles,20-03-2025,22:29,57,Regular,Veggie Taco,3,14.63,6.75,0.01,FALSE,6.76
+164891,La Vida Taco,Austin,27-05-2024,11:12,59,Large,Veggie Taco,2,20.04,7,2.8,FALSE,9.8
+232442,The Taco Stand,San Antonio,03-04-2025,20:51,38,Regular,Fish Taco,0,13.69,3,1.38,FALSE,4.38
+251729,Urban Tacos,Houston,23-01-2025,05:33,68,Regular,Pork Taco,2,4.07,5.5,2,FALSE,7.5
+940215,Taco Fiesta,San Antonio,05-09-2024,15:49,49,Regular,Veggie Taco,5,14.56,9.25,1.89,FALSE,11.14
+326183,Grande Tacos,Phoenix,19-10-2024,14:21,17,Large,Chicken Taco,5,5.66,10.75,3.66,TRUE,14.41
